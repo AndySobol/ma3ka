@@ -1444,6 +1444,20 @@
           }
         }
       }
+    },
+    "orange-copy": {
+      "value": "#a33c13",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
     }
   },
   "palette": {
