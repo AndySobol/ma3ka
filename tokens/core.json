@@ -1521,5 +1521,9 @@
   "greni": {
     "value": "#22A12E",
     "type": "color"
+  },
+  "DARK": {
+    "value": "#111312",
+    "type": "color"
   }
 }
