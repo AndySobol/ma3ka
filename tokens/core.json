@@ -1332,6 +1332,20 @@
           }
         }
       }
+    },
+    "red-copy-copy-copy": {
+      "value": "#6f1877",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
     }
   },
   "palette": {
