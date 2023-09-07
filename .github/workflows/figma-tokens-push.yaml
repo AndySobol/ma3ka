@@ -6,8 +6,6 @@ on:
     branches:
       - figma-tokens
 
-env:
-  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
 jobs:
   pull-request:
@@ -21,3 +19,4 @@ jobs:
           destination_branch: "main" # match your default branch
           pr_title: "Figma Tokens Update"
           pr_body: "🍥 Design Tokens were updated in Figma! This PR was created to update the code."
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
