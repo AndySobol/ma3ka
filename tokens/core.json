@@ -1402,6 +1402,20 @@
           }
         }
       }
+    },
+    "green": {
+      "value": "#31ef05",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
     }
   },
   "palette": {
