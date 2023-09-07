@@ -1525,5 +1525,9 @@
   "DARK": {
     "value": "#111312",
     "type": "color"
+  },
+  "DARK-copy": {
+    "value": "#56685f",
+    "type": "color"
   }
 }
