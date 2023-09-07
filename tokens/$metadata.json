@@ -1,0 +1,14 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "colorSpace / denim",
+    "colorSpace / red",
+    "colorSpace / fucsia",
+    "colorBody / accent",
+    "colorBody / neutral",
+    "theme / light",
+    "theme / dark",
+    "typography / sfpro",
+    "typography / roboto"
+  ]
+}
