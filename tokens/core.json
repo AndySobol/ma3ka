@@ -1446,7 +1446,7 @@
       }
     },
     "orange-copy": {
-      "value": "#a33c13",
+      "value": "#e57041",
       "type": "color",
       "$extendions": {
         "studio.tokens": {
