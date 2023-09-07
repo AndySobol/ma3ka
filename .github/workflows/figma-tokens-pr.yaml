@@ -4,7 +4,7 @@ on: pull_request
 
 jobs:
   run_if: # only if base branch is "figma-tokens"
-    if: ${{ github.head_ref == 'figma-tokens' }}
+    if: ${{ github.head_ref == 'dev' }}
     name: Process Figma Tokens
     runs-on: ubuntu-latest
     timeout-minutes: 5
@@ -24,7 +24,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: Joren Broekema
-          author_email: joren.broekema@gmail.com
+          author_name: Andy Sobol
+          author_email: soboleew@gmail.com
           message: "chore: style-dictionary output"
           add: "."
