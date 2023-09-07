@@ -1304,6 +1304,34 @@
           }
         }
       }
+    },
+    "red-copy": {
+      "value": "#4e99ed",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "red-copy-copy": {
+      "value": "#e04eed",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
     }
   },
   "palette": {
