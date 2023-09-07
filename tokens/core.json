@@ -1303,6 +1303,20 @@
             "format": "hex"
           }
         }
+      },
+      "new": {
+        "value": "#cc0d1a",
+        "type": "color",
+        "$extendions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "lch",
+              "format": "hex"
+            }
+          }
+        }
       }
     },
     "red-copy": {
@@ -1335,6 +1349,20 @@
     },
     "red-copy-copy-copy": {
       "value": "#6f1877",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "yellow": {
+      "value": "#cca30a",
       "type": "color",
       "$extendions": {
         "studio.tokens": {
