@@ -1292,7 +1292,203 @@
   },
   "core": {
     "red": {
-      "value": "oklch(67.5% 0.22 27)",
+      "value": "#EE5A4E",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      },
+      "new": {
+        "value": "#cc0d1a",
+        "type": "color",
+        "$extendions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0",
+              "space": "lch",
+              "format": "hex"
+            }
+          }
+        }
+      }
+    },
+    "red-copy": {
+      "value": "#4e99ed",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "red-copy-copy": {
+      "value": "#e04eed",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "red-copy-copy-copy": {
+      "value": "#6f1877",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "yellow": {
+      "value": "#cca30a",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "black": {
+      "value": "#080808",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "white": {
+      "value": "#f1ebeb",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "green": {
+      "value": "#31ef05",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "green-copy2": {
+      "value": "#31ef05",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "cyan": {
+      "value": "#05b1f0",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "orange": {
+      "value": "#f04805",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "orange-copy2": {
+      "value": "#f04805",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "orange-copy": {
+      "value": "#e57041",
+      "type": "color",
+      "$extendions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0",
+            "space": "lch",
+            "format": "hex"
+          }
+        }
+      }
+    },
+    "orange-copy-copy": {
+      "value": "#892903",
       "type": "color",
       "$extendions": {
         "studio.tokens": {
@@ -1321,5 +1517,9 @@
         }
       }
     }
+  },
+  "greni": {
+    "value": "#22A12E",
+    "type": "color"
   }
 }
