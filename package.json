@@ -1,0 +1,29 @@
+{
+  "name": "ma3ka",
+  "version": "1.0.0",
+  "description": "tokens from figma",
+  "main": "index.js",
+  "scripts": {
+    "build:tokens": "node build-tokens.cjs",
+    "demo:dev": "wds --open --watch --node-resolve",
+    "demo:build": "rimraf dist && rollup -c rollup.config.js",
+    "demo:start": "http-server -o -c-1 dist"
+  },
+  "author": "andysobol",
+  "license": "ISC",
+  "dependencies": {
+    "@tokens-studio/sd-transforms": "^0.11.1",
+    "chroma-js": "^2.4.2",
+    "colorjs.io": "^0.4.5",
+    "style-dictionary": "^3.8.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-dynamic-import-vars": "^2.0.5",
+    "@rollup/plugin-node-resolve": "^15.2.1",
+    "@web/dev-server": "^0.3.1",
+    "@web/rollup-plugin-html": "^2.0.1",
+    "rimraf": "^5.0.1",
+    "rollup": "^3.29.0",
+    "rollup-plugin-import-css": "^3.3.1"
+  }
+}
