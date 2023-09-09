@@ -214,19 +214,15 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "_corePalette": "source",
       "accent/ primary": "source",
       "body/ neutral": "source",
-      "body/ accent": "source",
       "theme / light": "enabled",
-      "accent/ secondary": "source",
-      "accent/ tertiary": "source",
-      "accent/ fourfold": "source"
+      "_corePalette": "source"
     },
-    "group": "theme",
     "$figmaCollectionId": "VariableCollectionId:1:149",
     "$figmaModeId": "1:26",
-    "$figmaVariableReferences": {}
+    "$figmaVariableReferences": {},
+    "group": "theme"
   },
   {
     "id": "410ec65ca93c9cccc70108b7025e48e6a9459de2",
