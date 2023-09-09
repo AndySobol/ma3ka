@@ -1,13 +1,16 @@
 {
   "tokenSetOrder": [
-    "core",
-    "colorSpace / denim",
-    "colorSpace / red",
-    "colorSpace / fucsia",
-    "colorBody / accent",
-    "colorBody / neutral",
+    "_corePalette",
+    "_coreLoyaut",
+    "accent/ primary",
+    "accent/ secondary",
+    "accent/ tertiary",
+    "accent/ fourfold",
+    "body/ neutral",
+    "body/ accent",
     "theme / light",
     "theme / dark",
+    "theme / wireframe",
     "typography / sfpro",
     "typography / roboto"
   ]

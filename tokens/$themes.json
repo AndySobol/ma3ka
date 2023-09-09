@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "id": "bc9be295144912118ee89456a4a33ebff6625e70",
+    "name": "primary",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "accent/ primary": "enabled"
+    },
+    "group": "accent"
+  },
+  {
+    "id": "b706e1576ed2a66d687791df7b1e8276670c1b8d",
+    "name": "secondary",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "accent/ secondary": "enabled"
+    },
+    "group": "accent"
+  },
+  {
+    "id": "016dad9cf3f73548ccc1240fe0c949a26f9c9195",
+    "name": "tertiary",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "accent/ tertiary": "enabled"
+    },
+    "group": "accent"
+  },
+  {
+    "id": "a226da641a6678e1c3f9b0144e0a8cedfe3ccf63",
+    "name": "fourfold",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "accent/ fourfold": "enabled"
+    },
+    "group": "accent"
+  },
+  {
+    "id": "946f83cc9ddacc3af38baa01bbd0e2ce01169fd8",
+    "name": "neutral",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "body/ neutral": "enabled"
+    },
+    "group": "body"
+  },
+  {
+    "id": "0009e50b42e85d36b39f56112da87a43d3feeb91",
+    "name": "accent",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "accent/ primary": "source",
+      "body/ accent": "enabled",
+      "_corePalette": "source"
+    },
+    "group": "body"
+  },
+  {
+    "id": "a568b301a4464890081bd8e1aa8086c7dd78a230",
+    "name": "wireframe",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "body/ neutral": "source",
+      "theme / wireframe": "enabled"
+    },
+    "group": "theme"
+  },
+  {
+    "id": "5d5794db39d5777b90e2fb7fd201679baf27b931",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "accent/ primary": "source",
+      "body/ neutral": "source",
+      "body/ accent": "source",
+      "theme / light": "enabled",
+      "accent/ secondary": "source",
+      "accent/ tertiary": "source",
+      "accent/ fourfold": "source"
+    },
+    "group": "theme"
+  },
+  {
+    "id": "410ec65ca93c9cccc70108b7025e48e6a9459de2",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "accent/ primary": "source",
+      "body/ neutral": "source",
+      "body/ accent": "source",
+      "theme / dark": "enabled",
+      "accent/ secondary": "source",
+      "accent/ tertiary": "source",
+      "accent/ fourfold": "source"
+    },
+    "group": "theme"
+  }
+]
