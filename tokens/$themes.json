@@ -242,5 +242,15 @@
     "$figmaCollectionId": "VariableCollectionId:1:149",
     "$figmaModeId": "1:27",
     "$figmaVariableReferences": {}
+  },
+  {
+    "id": "c923c722f9795de0d3148f1e291c5e31ec6f00cf",
+    "name": "sfpro",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_coreLoyaut": "source",
+      "typography / sfpro": "enabled"
+    },
+    "group": "typography"
   }
 ]
