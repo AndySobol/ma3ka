@@ -1,1 +1,246 @@
-[]
+[
+  {
+    "id": "bc9be295144912118ee89456a4a33ebff6625e70",
+    "name": "primary",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "accent/ primary": "enabled"
+    },
+    "group": "accent",
+    "$figmaCollectionId": "VariableCollectionId:1:113",
+    "$figmaModeId": "1:19",
+    "$figmaVariableReferences": {
+      "accent.10": "474ecd26ed5041c38c9b89393976f5a464f74d5c",
+      "accent.20": "e0a43701ce8b68501c70dfa6d6d797cd7b6651fe",
+      "accent.30": "0983e8f328f4f10d4b8f44b563eff4585218c6d2",
+      "accent.40": "4e7adeb9b49dff35fed5081c0079003cdde38767",
+      "accent.50": "f1e7951a2a1e43dea370dcd1ec1ce8ff31ca9a14",
+      "accent.60": "aa83e3627e5c9c447533b0310ac9fb4a7456d350",
+      "accent.70": "120c26a320d6125d43c8de9efb0cb9cbea84fd4e",
+      "accent.80": "60cfc522868c74fcd2f88225cca21ec43a4fe9f4",
+      "accent.90": "bbe2c8613a608b59041ea29895cabdcddfb39b76",
+      "accent.100": "ace9fe80d281179332922dc2395ee88c3b43c85e",
+      "accent.110": "0f35597de6e71f35143dec1dbc436c872c765a06",
+      "accent.120": "3d552849e96c0eef9a2db0fb6bc8e1d892ab180d",
+      "accent.130": "105730a7cd199197ac96c632a396914d4b35cf99",
+      "accent.140": "778ef95f6a951d22e61aa2de6885069204b887c5",
+      "accent.150": "b50332796912732bda9af0fb7d8d84ce15e0ebb0",
+      "accent.160": "ccb581b5478d7cb6ff895b033f2197f18a05062c",
+      "accent.170": "b4bd38f4a3b97ac9f7f12ffe26104fed2e6b7a26",
+      "accent.180": "26be9257c452b0f55c188f2d7ce775115deb60b3",
+      "accent.190": "3c702924dd4993c62f3eb39bbab12deea8c46a4f",
+      "accent.200": "713c0868c6d2325ee9c898b1bbc19e28f9a7273b"
+    }
+  },
+  {
+    "id": "b706e1576ed2a66d687791df7b1e8276670c1b8d",
+    "name": "secondary",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "accent/ secondary": "enabled"
+    },
+    "group": "accent",
+    "$figmaCollectionId": "VariableCollectionId:1:113",
+    "$figmaModeId": "1:20",
+    "$figmaVariableReferences": {
+      "accent.10": "474ecd26ed5041c38c9b89393976f5a464f74d5c",
+      "accent.20": "e0a43701ce8b68501c70dfa6d6d797cd7b6651fe",
+      "accent.30": "0983e8f328f4f10d4b8f44b563eff4585218c6d2",
+      "accent.40": "4e7adeb9b49dff35fed5081c0079003cdde38767",
+      "accent.50": "f1e7951a2a1e43dea370dcd1ec1ce8ff31ca9a14",
+      "accent.60": "aa83e3627e5c9c447533b0310ac9fb4a7456d350",
+      "accent.70": "120c26a320d6125d43c8de9efb0cb9cbea84fd4e",
+      "accent.80": "60cfc522868c74fcd2f88225cca21ec43a4fe9f4",
+      "accent.90": "bbe2c8613a608b59041ea29895cabdcddfb39b76",
+      "accent.100": "ace9fe80d281179332922dc2395ee88c3b43c85e",
+      "accent.110": "0f35597de6e71f35143dec1dbc436c872c765a06",
+      "accent.120": "3d552849e96c0eef9a2db0fb6bc8e1d892ab180d",
+      "accent.130": "105730a7cd199197ac96c632a396914d4b35cf99",
+      "accent.140": "778ef95f6a951d22e61aa2de6885069204b887c5",
+      "accent.150": "b50332796912732bda9af0fb7d8d84ce15e0ebb0",
+      "accent.160": "ccb581b5478d7cb6ff895b033f2197f18a05062c",
+      "accent.170": "b4bd38f4a3b97ac9f7f12ffe26104fed2e6b7a26",
+      "accent.180": "26be9257c452b0f55c188f2d7ce775115deb60b3",
+      "accent.190": "3c702924dd4993c62f3eb39bbab12deea8c46a4f",
+      "accent.200": "713c0868c6d2325ee9c898b1bbc19e28f9a7273b"
+    }
+  },
+  {
+    "id": "016dad9cf3f73548ccc1240fe0c949a26f9c9195",
+    "name": "tertiary",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "accent/ tertiary": "enabled"
+    },
+    "group": "accent",
+    "$figmaCollectionId": "VariableCollectionId:1:113",
+    "$figmaModeId": "1:21",
+    "$figmaVariableReferences": {
+      "accent.10": "474ecd26ed5041c38c9b89393976f5a464f74d5c",
+      "accent.20": "e0a43701ce8b68501c70dfa6d6d797cd7b6651fe",
+      "accent.30": "0983e8f328f4f10d4b8f44b563eff4585218c6d2",
+      "accent.40": "4e7adeb9b49dff35fed5081c0079003cdde38767",
+      "accent.50": "f1e7951a2a1e43dea370dcd1ec1ce8ff31ca9a14",
+      "accent.60": "aa83e3627e5c9c447533b0310ac9fb4a7456d350",
+      "accent.70": "120c26a320d6125d43c8de9efb0cb9cbea84fd4e",
+      "accent.80": "60cfc522868c74fcd2f88225cca21ec43a4fe9f4",
+      "accent.90": "bbe2c8613a608b59041ea29895cabdcddfb39b76",
+      "accent.100": "ace9fe80d281179332922dc2395ee88c3b43c85e",
+      "accent.110": "0f35597de6e71f35143dec1dbc436c872c765a06",
+      "accent.120": "3d552849e96c0eef9a2db0fb6bc8e1d892ab180d",
+      "accent.130": "105730a7cd199197ac96c632a396914d4b35cf99",
+      "accent.140": "778ef95f6a951d22e61aa2de6885069204b887c5",
+      "accent.150": "b50332796912732bda9af0fb7d8d84ce15e0ebb0",
+      "accent.160": "ccb581b5478d7cb6ff895b033f2197f18a05062c",
+      "accent.170": "b4bd38f4a3b97ac9f7f12ffe26104fed2e6b7a26",
+      "accent.180": "26be9257c452b0f55c188f2d7ce775115deb60b3",
+      "accent.190": "3c702924dd4993c62f3eb39bbab12deea8c46a4f",
+      "accent.200": "713c0868c6d2325ee9c898b1bbc19e28f9a7273b"
+    }
+  },
+  {
+    "id": "a226da641a6678e1c3f9b0144e0a8cedfe3ccf63",
+    "name": "fourfold",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "accent/ fourfold": "enabled"
+    },
+    "group": "accent",
+    "$figmaCollectionId": "VariableCollectionId:1:113",
+    "$figmaModeId": "1:22",
+    "$figmaVariableReferences": {
+      "accent.10": "474ecd26ed5041c38c9b89393976f5a464f74d5c",
+      "accent.20": "e0a43701ce8b68501c70dfa6d6d797cd7b6651fe",
+      "accent.30": "0983e8f328f4f10d4b8f44b563eff4585218c6d2",
+      "accent.40": "4e7adeb9b49dff35fed5081c0079003cdde38767",
+      "accent.50": "f1e7951a2a1e43dea370dcd1ec1ce8ff31ca9a14",
+      "accent.60": "aa83e3627e5c9c447533b0310ac9fb4a7456d350",
+      "accent.70": "120c26a320d6125d43c8de9efb0cb9cbea84fd4e",
+      "accent.80": "60cfc522868c74fcd2f88225cca21ec43a4fe9f4",
+      "accent.90": "bbe2c8613a608b59041ea29895cabdcddfb39b76",
+      "accent.100": "ace9fe80d281179332922dc2395ee88c3b43c85e",
+      "accent.110": "0f35597de6e71f35143dec1dbc436c872c765a06",
+      "accent.120": "3d552849e96c0eef9a2db0fb6bc8e1d892ab180d",
+      "accent.130": "105730a7cd199197ac96c632a396914d4b35cf99",
+      "accent.140": "778ef95f6a951d22e61aa2de6885069204b887c5",
+      "accent.150": "b50332796912732bda9af0fb7d8d84ce15e0ebb0",
+      "accent.160": "ccb581b5478d7cb6ff895b033f2197f18a05062c",
+      "accent.170": "b4bd38f4a3b97ac9f7f12ffe26104fed2e6b7a26",
+      "accent.180": "26be9257c452b0f55c188f2d7ce775115deb60b3",
+      "accent.190": "3c702924dd4993c62f3eb39bbab12deea8c46a4f",
+      "accent.200": "713c0868c6d2325ee9c898b1bbc19e28f9a7273b"
+    }
+  },
+  {
+    "id": "946f83cc9ddacc3af38baa01bbd0e2ce01169fd8",
+    "name": "neutral",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "body/ neutral": "enabled"
+    },
+    "group": "body",
+    "$figmaCollectionId": "VariableCollectionId:1:134",
+    "$figmaModeId": "1:23",
+    "$figmaVariableReferences": {
+      "body.10": "bcbce562f1d5f2bcaea88342ad198af68c35c818",
+      "body.20": "9dc6d09807753c410eb38c161deb98917950338f",
+      "body.30": "e6a8a569a570f1a60dc7c792bb7e1bea69ef35ce",
+      "body.40": "4a03b8312a26c432270be1329b2650b337a29050",
+      "body.50": "df68ab191de38898498315bf76c5a35cd8e29c08",
+      "body.60": "aaa1c84d2bc910933ccd26c42af86e11f240dfb3",
+      "body.70": "7f96a4614ccb4acb4762925c75b2c4812e343bbd",
+      "body.140": "6cc554e4304b8397a5cd8296483a5648d74ce6aa",
+      "body.150": "1f010812aee5c344a86f6a95e5e2cb2e99b82b7c",
+      "body.160": "c8cfef15f08fb288d5eb5b81250451832a0a51f7",
+      "body.170": "86eb0243ad11c3b46c7a63c1e5d2015c89ef8667",
+      "body.180": "306c8bead250e196a26c6720e9943ad616a4172c",
+      "body.190": "e29878014916c5b31d2fbe1806b6a3e0b19d45e9",
+      "body.200": "493fc01b9539e1ba75591c3422ffdb2b8d0d61f7"
+    }
+  },
+  {
+    "id": "0009e50b42e85d36b39f56112da87a43d3feeb91",
+    "name": "accent",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "accent/ primary": "source",
+      "body/ accent": "enabled",
+      "_corePalette": "source",
+      "accent/ secondary": "source",
+      "accent/ tertiary": "source",
+      "accent/ fourfold": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:1:134",
+    "$figmaModeId": "1:24",
+    "$figmaVariableReferences": {
+      "body.10": "bcbce562f1d5f2bcaea88342ad198af68c35c818",
+      "body.20": "9dc6d09807753c410eb38c161deb98917950338f",
+      "body.30": "e6a8a569a570f1a60dc7c792bb7e1bea69ef35ce",
+      "body.40": "4a03b8312a26c432270be1329b2650b337a29050",
+      "body.50": "df68ab191de38898498315bf76c5a35cd8e29c08",
+      "body.60": "aaa1c84d2bc910933ccd26c42af86e11f240dfb3",
+      "body.70": "7f96a4614ccb4acb4762925c75b2c4812e343bbd",
+      "body.140": "6cc554e4304b8397a5cd8296483a5648d74ce6aa",
+      "body.150": "1f010812aee5c344a86f6a95e5e2cb2e99b82b7c",
+      "body.160": "c8cfef15f08fb288d5eb5b81250451832a0a51f7",
+      "body.170": "86eb0243ad11c3b46c7a63c1e5d2015c89ef8667",
+      "body.180": "306c8bead250e196a26c6720e9943ad616a4172c",
+      "body.190": "e29878014916c5b31d2fbe1806b6a3e0b19d45e9",
+      "body.200": "493fc01b9539e1ba75591c3422ffdb2b8d0d61f7"
+    },
+    "group": "body"
+  },
+  {
+    "id": "a568b301a4464890081bd8e1aa8086c7dd78a230",
+    "name": "wireframe",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "body/ neutral": "source",
+      "theme / wireframe": "enabled"
+    },
+    "group": "theme",
+    "$figmaCollectionId": "VariableCollectionId:1:149",
+    "$figmaModeId": "1:25",
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "5d5794db39d5777b90e2fb7fd201679baf27b931",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "accent/ primary": "source",
+      "body/ neutral": "source",
+      "theme / light": "enabled",
+      "_corePalette": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:1:149",
+    "$figmaModeId": "1:26",
+    "$figmaVariableReferences": {},
+    "group": "theme"
+  },
+  {
+    "id": "410ec65ca93c9cccc70108b7025e48e6a9459de2",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "_corePalette": "source",
+      "accent/ primary": "source",
+      "body/ neutral": "source",
+      "body/ accent": "source",
+      "theme / dark": "enabled",
+      "accent/ secondary": "source",
+      "accent/ tertiary": "source",
+      "accent/ fourfold": "source"
+    },
+    "group": "theme",
+    "$figmaCollectionId": "VariableCollectionId:1:149",
+    "$figmaModeId": "1:27",
+    "$figmaVariableReferences": {}
+  }
+]

@@ -1,1 +1,618 @@
-{}
+{
+  "body": {
+    "xxHigh": {
+      "value": "{body.70}",
+      "type": "color"
+    },
+    "xHigh": {
+      "value": "{body.60}",
+      "type": "color"
+    },
+    "high": {
+      "value": "{body.50}",
+      "type": "color"
+    },
+    "medium": {
+      "value": "{body.40}",
+      "type": "color"
+    },
+    "low": {
+      "value": "{body.30}",
+      "type": "color"
+    },
+    "xLow": {
+      "value": "{body.20}",
+      "type": "color"
+    },
+    "xxLow": {
+      "value": "{body.10}",
+      "type": "color"
+    }
+  },
+  "primary": {
+    "contast": {
+      "fill": {
+        "xHigh": {
+          "value": "#",
+          "type": "color"
+        },
+        "high": {
+          "value": "#",
+          "type": "color"
+        },
+        "medium": {
+          "value": "#",
+          "type": "color"
+        },
+        "low": {
+          "value": "#",
+          "type": "color"
+        },
+        "xLow": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "onFill": {
+        "xHigh": {
+          "value": "#",
+          "type": "color"
+        },
+        "high": {
+          "value": "#",
+          "type": "color"
+        },
+        "medium": {
+          "value": "#",
+          "type": "color"
+        },
+        "low": {
+          "value": "#",
+          "type": "color"
+        },
+        "xLow": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "stroke": {
+        "xHigh": {
+          "value": "#",
+          "type": "color"
+        },
+        "high": {
+          "value": "#",
+          "type": "color"
+        },
+        "medium": {
+          "value": "#",
+          "type": "color"
+        },
+        "low": {
+          "value": "#",
+          "type": "color"
+        },
+        "xLow": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    },
+    "mute": {
+      "fill": {
+        "xHigh": {
+          "value": "#",
+          "type": "color"
+        },
+        "high": {
+          "value": "#",
+          "type": "color"
+        },
+        "medium": {
+          "value": "#",
+          "type": "color"
+        },
+        "low": {
+          "value": "#",
+          "type": "color"
+        },
+        "xLow": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "onFill": {
+        "xHigh": {
+          "value": "#",
+          "type": "color"
+        },
+        "high": {
+          "value": "#",
+          "type": "color"
+        },
+        "medium": {
+          "value": "#",
+          "type": "color"
+        },
+        "low": {
+          "value": "#",
+          "type": "color"
+        },
+        "xLow": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "stroke": {
+        "xHigh": {
+          "value": "#",
+          "type": "color"
+        },
+        "high": {
+          "value": "#",
+          "type": "color"
+        },
+        "medium": {
+          "value": "#",
+          "type": "color"
+        },
+        "low": {
+          "value": "#",
+          "type": "color"
+        },
+        "xLow": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "status": {
+    "success": {
+      "contast": {
+        "fill": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        },
+        "onFill": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        },
+        "stroke": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        }
+      },
+      "mute": {
+        "fill": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        },
+        "onFill": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        },
+        "stroke": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "caution": {
+      "contast": {
+        "fill": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        },
+        "onFill": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        },
+        "stroke": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        }
+      },
+      "mute": {
+        "fill": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        },
+        "onFill": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        },
+        "stroke": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "critical": {
+      "contast": {
+        "fill": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        },
+        "onFill": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        },
+        "stroke": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        }
+      },
+      "mute": {
+        "fill": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        },
+        "onFill": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        },
+        "stroke": {
+          "xHigh": {
+            "value": "#",
+            "type": "color"
+          },
+          "high": {
+            "value": "#",
+            "type": "color"
+          },
+          "medium": {
+            "value": "#",
+            "type": "color"
+          },
+          "low": {
+            "value": "#",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "#",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "native": {
+    "ios": {
+      "action": {
+        "primary": {
+          "value": "#",
+          "type": "color"
+        },
+        "success": {
+          "value": "#",
+          "type": "color"
+        },
+        "caution": {
+          "value": "#",
+          "type": "color"
+        },
+        "critical": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "static": {
+        "faceID": {
+          "value": "#",
+          "type": "color"
+        },
+        "homeBar": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

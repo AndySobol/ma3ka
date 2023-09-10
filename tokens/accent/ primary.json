@@ -1,0 +1,84 @@
+{
+  "accent": {
+    "10": {
+      "value": "{denim.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{denim.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{denim.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{denim.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{denim.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{denim.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{denim.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{denim.80}",
+      "type": "color"
+    },
+    "90": {
+      "value": "{denim.90}",
+      "type": "color"
+    },
+    "100": {
+      "value": "{denim.100}",
+      "type": "color"
+    },
+    "110": {
+      "value": "{denim.110}",
+      "type": "color"
+    },
+    "120": {
+      "value": "{denim.120}",
+      "type": "color"
+    },
+    "130": {
+      "value": "{denim.130}",
+      "type": "color"
+    },
+    "140": {
+      "value": "{denim.140}",
+      "type": "color"
+    },
+    "150": {
+      "value": "{denim.150}",
+      "type": "color"
+    },
+    "160": {
+      "value": "{denim.160}",
+      "type": "color"
+    },
+    "170": {
+      "value": "{denim.170}",
+      "type": "color"
+    },
+    "180": {
+      "value": "{denim.180}",
+      "type": "color"
+    },
+    "190": {
+      "value": "{denim.190}",
+      "type": "color"
+    },
+    "200": {
+      "value": "{denim.200}",
+      "type": "color"
+    }
+  }
+}
