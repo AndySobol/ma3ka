@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
-    "_corePalette",
-    "_coreLoyaut",
+    "corePalette",
+    "coreLoyaut",
     "accent/ primary",
     "accent/ secondary",
     "accent/ tertiary",
