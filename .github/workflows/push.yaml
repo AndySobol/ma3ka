@@ -1,4 +1,4 @@
-name: Create Tokens Studio for Figma PR
+name: Create PR
 
 # match the branch you put in your Tokens Studio for Figma sync credentials in the next step
 on:
