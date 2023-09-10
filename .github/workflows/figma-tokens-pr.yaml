@@ -18,11 +18,8 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Run token-transformer
-        run: npx token-transformer sd-input/src/figma-tokens-output.json sd-input/src/sd-input.json --resolveReferences false
-
       - name: Run style-dictionary
-        run: npx style-dictionary build --config sd.config.cjs
+        run: npm run builds
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
