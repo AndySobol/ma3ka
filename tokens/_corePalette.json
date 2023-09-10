@@ -1228,5 +1228,13 @@
       "value": "#1B0907",
       "type": "color"
     }
+  },
+  "black": {
+    "value": "#000000",
+    "type": "color"
+  },
+  "white": {
+    "value": "#FFFFFF",
+    "type": "color"
   }
 }
