@@ -4,8 +4,8 @@
     "name": "primary",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "_corePalette": "source",
-      "accent/ primary": "enabled"
+      "accent/ primary": "enabled",
+      "corePalette": "source"
     },
     "group": "accent",
     "$figmaCollectionId": "VariableCollectionId:1:113",
@@ -38,8 +38,8 @@
     "name": "secondary",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "_corePalette": "source",
-      "accent/ secondary": "enabled"
+      "accent/ secondary": "enabled",
+      "corePalette": "source"
     },
     "group": "accent",
     "$figmaCollectionId": "VariableCollectionId:1:113",
@@ -72,8 +72,8 @@
     "name": "tertiary",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "_corePalette": "source",
-      "accent/ tertiary": "enabled"
+      "accent/ tertiary": "enabled",
+      "corePalette": "source"
     },
     "group": "accent",
     "$figmaCollectionId": "VariableCollectionId:1:113",
@@ -106,8 +106,8 @@
     "name": "fourfold",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "_corePalette": "source",
-      "accent/ fourfold": "enabled"
+      "accent/ fourfold": "enabled",
+      "corePalette": "source"
     },
     "group": "accent",
     "$figmaCollectionId": "VariableCollectionId:1:113",
@@ -140,8 +140,8 @@
     "name": "neutral",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "_corePalette": "source",
-      "body/ neutral": "enabled"
+      "body/ neutral": "enabled",
+      "corePalette": "source"
     },
     "group": "body",
     "$figmaCollectionId": "VariableCollectionId:1:134",
@@ -170,10 +170,10 @@
     "selectedTokenSets": {
       "accent/ primary": "source",
       "body/ accent": "enabled",
-      "_corePalette": "source",
       "accent/ secondary": "source",
       "accent/ tertiary": "source",
-      "accent/ fourfold": "source"
+      "accent/ fourfold": "source",
+      "corePalette": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:1:134",
     "$figmaModeId": "1:24",
@@ -200,9 +200,9 @@
     "name": "wireframe",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "_corePalette": "source",
       "body/ neutral": "source",
-      "theme / wireframe": "enabled"
+      "theme / wireframe": "enabled",
+      "corePalette": "source"
     },
     "group": "theme",
     "$figmaCollectionId": "VariableCollectionId:1:149",
@@ -217,7 +217,7 @@
       "accent/ primary": "source",
       "body/ neutral": "source",
       "theme / light": "enabled",
-      "_corePalette": "source"
+      "corePalette": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:1:149",
     "$figmaModeId": "1:26",
@@ -229,18 +229,38 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "_corePalette": "source",
       "accent/ primary": "source",
       "body/ neutral": "source",
       "body/ accent": "source",
       "theme / dark": "enabled",
       "accent/ secondary": "source",
       "accent/ tertiary": "source",
-      "accent/ fourfold": "source"
+      "accent/ fourfold": "source",
+      "corePalette": "source"
     },
     "group": "theme",
     "$figmaCollectionId": "VariableCollectionId:1:149",
     "$figmaModeId": "1:27",
     "$figmaVariableReferences": {}
+  },
+  {
+    "id": "c923c722f9795de0d3148f1e291c5e31ec6f00cf",
+    "name": "sfpro",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "typography / sfpro": "enabled",
+      "coreLoyaut": "source"
+    },
+    "group": "typography"
+  },
+  {
+    "id": "08206991f65e3976b3f94ff468f943715fd9927e",
+    "name": "roboto",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "typography / roboto": "enabled",
+      "coreLoyaut": "source"
+    },
+    "group": "typography"
   }
 ]
