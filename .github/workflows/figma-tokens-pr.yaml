@@ -1,6 +1,11 @@
 name: Process Figma Tokens PR
 
-on: pull_request
+on:
+  pull_request:
+    branches:
+      - figma-tokens
+    types:
+      - labeled
 
 jobs:
   run_if: # only if base branch is "figma-tokens"
@@ -10,18 +15,22 @@ jobs:
     timeout-minutes: 5
     steps:
       # checkout to the head of this PR
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v3
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.ref }}
 
-      - name: Install Dependencies
-        run: npm install
+      - name: Install Node Dependencies
+        run: npm install style-dictionary
+
+      - name: Install TS
+        run: npm install @tokens-studio/sd-transforms
 
       - name: Run style-dictionary
         run: npm run builds
 
       - name: Commit changes
+        id: "auto-commit-action"
         uses: EndBug/add-and-commit@v9
         with:
           author_name: Andy Sobol
