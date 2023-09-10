@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "build:tokens": "node build-tokens.cjs",
-    "builds": "node builds.cjs"
     "demo:dev": "wds --open --watch --node-resolve",
     "demo:build": "rimraf dist && rollup -c rollup.config.js",
     "demo:start": "http-server -o -c-1 dist"
