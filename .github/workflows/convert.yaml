@@ -3,13 +3,13 @@ name: Covert
 on:
   pull_request:
     branches:
-      - figma-tokens
+      - main
     types:
       - labeled
 
 jobs:
   run_if: # only if base branch is "figma-tokens"
-    if: ${{ github.head_ref == 'figma-tokens' }}
+    if: ${{ github.head_ref == 'main' }}
     name: Process Figma Tokens
     runs-on: ubuntu-latest
     timeout-minutes: 5
