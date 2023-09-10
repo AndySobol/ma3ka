@@ -1,32 +1,70 @@
-const { registerTransforms } = require('@tokens-studio/sd-transforms');
 const StyleDictionary = require('style-dictionary');
-const { promises } = require('fs');
+const { registerTransforms } = require('@tokens-studio/sd-transforms');
 
-registerTransforms(StyleDictionary, {
-  /* options here if needed */
+// sd-transforms, 2nd parameter for options can be added
+// See docs: https://github.com/tokens-studio/sd-transforms
+registerTransforms(StyleDictionary);
+
+// example value transform, which just returns the token as is
+StyleDictionary.registerTransform({
+  type: 'value',
+  name: 'myCustomTransform',
+  matcher: (token) => {},
+  transformer: (token) => {
+    return token; // <-- transform as needed
+  },
 });
 
-async function run() {
-  const $themes = JSON.parse(await promises.readFile('$themes.json', 'utf-8'));
-  const themes = permutateThemes($themes, { seperator: '_' });
-  const configs = Object.entries(themes).map(([name, tokensets]) => ({
-    source: tokensets.map(tokenset => `${tokenset}.json`),
-    platforms: {
-      flutter: {
-        transformGroup: 'tokens-studio',
-        files: [
-          {
-            destination: `vars-${name}.dart`,
-            format: 'flutter/class.dart',
-          },
-        ],
-      },
-    },
-  }));
+// format helpers from style-dictionary
+const { fileHeader, formattedVariables } = StyleDictionary.formatHelpers;
 
-  configs.forEach(cfg => {
-    const sd = StyleDictionary.extend(cfg);
-    sd.cleanAllPlatforms(); // optionally, cleanup files first..
-    sd.buildAllPlatforms();
-  });
-}
+// example css format
+StyleDictionary.registerFormat({
+  name: 'myCustomFormat',
+  formatter: function ({ dictionary, file, options }) {
+    const { outputReferences } = options;
+    return `${fileHeader({ file })}:root {
+${formattedVariables({ format: 'css', dictionary, outputReferences })}
+}`;
+  },
+});
+
+const sd = StyleDictionary.extend({
+  source: ['tokens/_corePalette.json'],
+  platforms: {
+    css: {
+      transformGroup: 'tokens-studio',
+      prefix: 'sd',
+      buildPath: 'build/css/',
+      files: [
+        {
+          destination: '_variables.css',
+          format: 'css/variables',
+        },
+      ],
+    },
+    js: {
+      transformGroup: 'tokens-studio',
+      buildPath: 'build/js/',
+      files: [
+        {
+          destination: 'variables.js',
+          format: 'javascript/es6',
+        },
+      ],
+    },
+    flutter: {
+      buildPath: 'build/flutter/',
+      prefix: '',
+      transformGroup: 'flutter',
+      files: [
+        {
+          destination: 'variables.dart',
+          format: 'flutter/class.dart',
+        },
+      ],
+    },
+  },
+});
+sd.cleanAllPlatforms(); // optionally, cleanup files first..
+sd.buildAllPlatforms();
