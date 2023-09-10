@@ -45,7 +45,7 @@
           "type": "color"
         },
         "low": {
-          "value": "#",
+          "value": "{accent.60}",
           "type": "color"
         },
         "xLow": {
