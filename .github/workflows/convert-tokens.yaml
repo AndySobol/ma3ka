@@ -3,7 +3,7 @@ name: Generate Design Tokens With Style Dictionary
 on:
   pull_request:
     branches:
-      - main
+      - figma-tokens
     types:
       - labeled
 
