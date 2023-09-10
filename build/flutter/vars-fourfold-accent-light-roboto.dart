@@ -1,10 +1,10 @@
 
 //
-// vars-primary-accent-light-sfpro.dart
+// vars-fourfold-accent-light-roboto.dart
 //
 
 // Do not edit directly
-// Generated on Sun, 10 Sep 2023 14:45:52 GMT
+// Generated on Sun, 10 Sep 2023 14:45:54 GMT
 
 
 
@@ -14,25 +14,25 @@ class  {
   ._();
 
     static const accent10 = #FFFFFF;
-    static const accent100 = #58B4AF;
-    static const accent110 = #44938E;
-    static const accent120 = #3A7C79;
-    static const accent130 = #2B5D5A;
-    static const accent140 = #1D3F3D;
-    static const accent150 = #1B3A38;
-    static const accent160 = #152E2D;
-    static const accent170 = #102322;
-    static const accent180 = #0E1E1D;
-    static const accent190 = #0A1515;
-    static const accent20 = #F5FAFA;
-    static const accent200 = #07100F;
-    static const accent30 = #EBF6F5;
-    static const accent40 = #E0F1F0;
-    static const accent50 = #D6EDEB;
-    static const accent60 = #CCE8E7;
-    static const accent70 = #BCE1DF;
-    static const accent80 = #ADDAD8;
-    static const accent90 = #83C8C4;
+    static const accent100 = #E08DB0;
+    static const accent110 = #D35F8F;
+    static const accent120 = #C04579;
+    static const accent130 = #8F345A;
+    static const accent140 = #61233D;
+    static const accent150 = #5A2039;
+    static const accent160 = #481A2D;
+    static const accent170 = #371422;
+    static const accent180 = #30111E;
+    static const accent190 = #220C15;
+    static const accent20 = #FDF8FA;
+    static const accent200 = #190910;
+    static const accent30 = #FBF1F5;
+    static const accent40 = #F9EAF0;
+    static const accent50 = #F7E3EB;
+    static const accent60 = #F5DCE7;
+    static const accent70 = #F2D1DF;
+    static const accent80 = #EFC7D8;
+    static const accent90 = #E8AAC4;
     static const angles0 = 0deg;
     static const angles180 = 180deg;
     static const angles225 = 225deg;
@@ -527,11 +527,11 @@ class  {
     static const orange80 = #F4CAA3;
     static const orange90 = #EEAE74;
     static const paragraphSpacing0 = 0;
-    static const primaryContastFillHigh = #3A7C79;
-    static const primaryContastFillLow = #CCE8E7;
-    static const primaryContastFillMedium = #44938E;
-    static const primaryContastFillXHigh = #2B5D5A;
-    static const primaryContastFillXLow = #1B3A38;
+    static const primaryContastFillHigh = #C04579;
+    static const primaryContastFillLow = #F5DCE7;
+    static const primaryContastFillMedium = #D35F8F;
+    static const primaryContastFillXHigh = #8F345A;
+    static const primaryContastFillXLow = #5A2039;
     static const primaryContastOnFillHigh = #;
     static const primaryContastOnFillLow = #;
     static const primaryContastOnFillMedium = #;

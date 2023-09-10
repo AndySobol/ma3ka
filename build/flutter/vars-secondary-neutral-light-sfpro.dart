@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 10 Sep 2023 13:26:21 GMT
+// Generated on Sun, 10 Sep 2023 14:45:52 GMT
 
 
 
@@ -264,13 +264,10 @@ class  {
     static const fontSizes8 = 8;
     static const fontSizes80 = 80;
     static const fontSizes96 = 96;
-    static const fontWeightsBold = Bold;
     static const fontWeightsInterBold = Bold;
     static const fontWeightsInterLight = Light;
     static const fontWeightsInterRegular = Regular;
     static const fontWeightsInterSemibold = Semi Bold;
-    static const fontWeightsLight = Light;
-    static const fontWeightsRegular = Regular;
     static const fontWeightsRobotoBold = Bold;
     static const fontWeightsRobotoLight = Light;
     static const fontWeightsRobotoRegular = Regular;
@@ -287,7 +284,6 @@ class  {
     static const fontWeightsSegoeTextLight = Light Text;
     static const fontWeightsSegoeTextRegular = Regular Text;
     static const fontWeightsSegoeTextSemibold = Semibold Text;
-    static const fontWeightsSemibold = Semibold;
     static const fontWeightsSfBold = Bold;
     static const fontWeightsSfLight = Light;
     static const fontWeightsSfRegular = Regular;
