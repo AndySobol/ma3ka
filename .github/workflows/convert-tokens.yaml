@@ -16,7 +16,7 @@ jobs:
     - name: Install Node Dependencies
       run: npm install style-dictionary
     - name: Build Style Dictionary
-      run: npm run build
+      run: npm run builds
     - name: Commit Generated Platform Deliverables
       id: "auto-commit-action"
       uses: stefanzweifel/git-auto-commit-action@v4
