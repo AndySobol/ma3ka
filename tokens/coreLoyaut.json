@@ -764,118 +764,6 @@
       "type": "fontSizes"
     }
   },
-  "fontWeights": {
-    "segoe": {
-      "small": {
-        "light": {
-          "value": "Light Small",
-          "type": "fontWeights"
-        },
-        "regular": {
-          "value": "Regular Small",
-          "type": "fontWeights"
-        },
-        "Semibold": {
-          "value": "Semibold Small",
-          "type": "fontWeights"
-        },
-        "Bold": {
-          "value": "Bold Small",
-          "type": "fontWeights"
-        }
-      },
-      "text": {
-        "light": {
-          "value": "Light Text",
-          "type": "fontWeights"
-        },
-        "regular": {
-          "value": "Regular Text",
-          "type": "fontWeights"
-        },
-        "Semibold": {
-          "value": "Semibold Text",
-          "type": "fontWeights"
-        },
-        "Bold": {
-          "value": "Bold Text",
-          "type": "fontWeights"
-        }
-      },
-      "display": {
-        "light": {
-          "value": "Light Display",
-          "type": "fontWeights"
-        },
-        "regular": {
-          "value": "Regular Display",
-          "type": "fontWeights"
-        },
-        "Semibold": {
-          "value": "Semibold Display",
-          "type": "fontWeights"
-        },
-        "Bold": {
-          "value": "Bold Display",
-          "type": "fontWeights"
-        }
-      }
-    },
-    "sf": {
-      "light": {
-        "value": "Light",
-        "type": "fontWeights"
-      },
-      "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "semibold": {
-        "value": "Semibold",
-        "type": "fontWeights"
-      },
-      "bold": {
-        "value": "Bold",
-        "type": "fontWeights"
-      }
-    },
-    "inter": {
-      "light": {
-        "value": "Light",
-        "type": "fontWeights"
-      },
-      "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "semibold": {
-        "value": "Semi Bold",
-        "type": "fontWeights"
-      },
-      "bold": {
-        "value": "Bold",
-        "type": "fontWeights"
-      }
-    },
-    "roboto": {
-      "light": {
-        "value": "Light",
-        "type": "fontWeights"
-      },
-      "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "semibold": {
-        "value": "SemiBold",
-        "type": "fontWeights"
-      },
-      "bold": {
-        "value": "Bold",
-        "type": "fontWeights"
-      }
-    }
-  },
   "letterSpacing": {
     "0": {
       "value": "0",
@@ -1287,6 +1175,94 @@
         "value": "trunc",
         "type": "other",
         "description": "Возвращает целую часть числа путём удаления всех дробных знаков."
+      }
+    }
+  },
+  "fontWeights": {
+    "font": {
+      "100": {
+        "value": "{fontWeights.core.sfpro.thin}",
+        "type": "fontWeights"
+      },
+      "200": {
+        "value": "{fontWeights.core.sfpro.light}",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "{fontWeights.core.sfpro.regular}",
+        "type": "fontWeights"
+      },
+      "600": {
+        "value": "{fontWeights.core.sfpro.semibold}",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "{fontWeights.core.sfpro.bold}",
+        "type": "fontWeights"
+      }
+    },
+    "core": {
+      "sfpro": {
+        "thin": {
+          "value": "Thin",
+          "type": "fontWeights"
+        },
+        "light": {
+          "value": "Light",
+          "type": "fontWeights"
+        },
+        "regular": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "semibold": {
+          "value": "Semibold",
+          "type": "fontWeights"
+        },
+        "bold": {
+          "value": "Bold",
+          "type": "fontWeights"
+        }
+      },
+      "roboto": {
+        "thin": {
+          "value": "ExtraLight",
+          "type": "fontWeights"
+        },
+        "light": {
+          "value": "Light",
+          "type": "fontWeights"
+        },
+        "regular": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "semibold": {
+          "value": "SemiBold",
+          "type": "fontWeights"
+        },
+        "bold": {
+          "value": "Bold",
+          "type": "fontWeights"
+        }
+      }
+    },
+    "fonticon": {
+      "100": {
+        "value": "Thin",
+        "type": "fontWeights"
+      },
+      "200": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Solid",
+        "type": "fontWeights"
       }
     }
   }
