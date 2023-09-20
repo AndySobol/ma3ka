@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 10 Sep 2023 22:37:16 GMT
+// Generated on Wed, 20 Sep 2023 15:57:27 GMT
 
 
 
@@ -93,7 +93,47 @@ class  {
     static const colorAccent70 = Color(0xFFBCE1DF);
     static const colorAccent80 = Color(0xFFADDAD8);
     static const colorAccent90 = Color(0xFF83C8C4);
-    static const colorBlack = Color(0xFF000000);
+    static const colorAlphaBlack0 = Color(0xFF000000);
+    static const colorAlphaBlack002 = Color(0xFF000000);
+    static const colorAlphaBlack004 = Color(0xFF000000);
+    static const colorAlphaBlack008 = Color(0xFF000000);
+    static const colorAlphaBlack012 = Color(0xFF000000);
+    static const colorAlphaBlack016 = Color(0xFF000000);
+    static const colorAlphaBlack020 = Color(0xFF000000);
+    static const colorAlphaBlack024 = Color(0xFF000000);
+    static const colorAlphaBlack032 = Color(0xFF000000);
+    static const colorAlphaBlack040 = Color(0xFF000000);
+    static const colorAlphaBlack048 = Color(0xFF000000);
+    static const colorAlphaBlack056 = Color(0xFF000000);
+    static const colorAlphaBlack064 = Color(0xFF000000);
+    static const colorAlphaBlack072 = Color(0xFF000000);
+    static const colorAlphaBlack076 = Color(0xFF000000);
+    static const colorAlphaBlack080 = Color(0xFF000000);
+    static const colorAlphaBlack086 = Color(0xFF000000);
+    static const colorAlphaBlack090 = Color(0xFF000000);
+    static const colorAlphaBlack094 = Color(0xFF000000);
+    static const colorAlphaBlack098 = Color(0xFF000000);
+    static const colorAlphaWhite0 = Color(0xFF000000);
+    static const colorAlphaWhite002 = Color(0xFF000000);
+    static const colorAlphaWhite004 = Color(0xFF000000);
+    static const colorAlphaWhite008 = Color(0xFF000000);
+    static const colorAlphaWhite012 = Color(0xFF000000);
+    static const colorAlphaWhite016 = Color(0xFF000000);
+    static const colorAlphaWhite020 = Color(0xFF000000);
+    static const colorAlphaWhite024 = Color(0xFF000000);
+    static const colorAlphaWhite032 = Color(0xFF000000);
+    static const colorAlphaWhite040 = Color(0xFF000000);
+    static const colorAlphaWhite048 = Color(0xFF000000);
+    static const colorAlphaWhite056 = Color(0xFF000000);
+    static const colorAlphaWhite064 = Color(0xFF000000);
+    static const colorAlphaWhite072 = Color(0xFF000000);
+    static const colorAlphaWhite076 = Color(0xFF000000);
+    static const colorAlphaWhite080 = Color(0xFF000000);
+    static const colorAlphaWhite086 = Color(0xFF000000);
+    static const colorAlphaWhite090 = Color(0xFF000000);
+    static const colorAlphaWhite094 = Color(0xFF000000);
+    static const colorAlphaWhite098 = Color(0xFF000000);
+    static const colorBlack = Color(0xFF131313);
     static const colorBlue10 = Color(0xFFFFFFFF);
     static const colorBlue100 = Color(0xFF77A7F0);
     static const colorBlue110 = Color(0xFF4D86DC);
@@ -434,30 +474,20 @@ class  {
     static const fontSizes8 = 8;
     static const fontSizes80 = 80;
     static const fontSizes96 = 96;
-    static const fontWeightsInterBold = Bold;
-    static const fontWeightsInterLight = Light;
-    static const fontWeightsInterRegular = Regular;
-    static const fontWeightsInterSemibold = Semi Bold;
+    static const fontWeightsFontawesomeLight = Light;
+    static const fontWeightsFontawesomeRegular = Regular;
+    static const fontWeightsFontawesomeSolid = Solid;
+    static const fontWeightsFontawesomeThin = Thin;
     static const fontWeightsRobotoBold = Bold;
     static const fontWeightsRobotoLight = Light;
     static const fontWeightsRobotoRegular = Regular;
     static const fontWeightsRobotoSemibold = SemiBold;
-    static const fontWeightsSegoeDisplayBold = Bold Display;
-    static const fontWeightsSegoeDisplayLight = Light Display;
-    static const fontWeightsSegoeDisplayRegular = Regular Display;
-    static const fontWeightsSegoeDisplaySemibold = Semibold Display;
-    static const fontWeightsSegoeSmallBold = Bold Small;
-    static const fontWeightsSegoeSmallLight = Light Small;
-    static const fontWeightsSegoeSmallRegular = Regular Small;
-    static const fontWeightsSegoeSmallSemibold = Semibold Small;
-    static const fontWeightsSegoeTextBold = Bold Text;
-    static const fontWeightsSegoeTextLight = Light Text;
-    static const fontWeightsSegoeTextRegular = Regular Text;
-    static const fontWeightsSegoeTextSemibold = Semibold Text;
-    static const fontWeightsSfBold = Bold;
-    static const fontWeightsSfLight = Light;
-    static const fontWeightsSfRegular = Regular;
-    static const fontWeightsSfSemibold = Semibold;
+    static const fontWeightsRobotoThin = ExtraLight;
+    static const fontWeightsSfproBold = Bold;
+    static const fontWeightsSfproLight = Light;
+    static const fontWeightsSfproRegular = Regular;
+    static const fontWeightsSfproSemibold = Semibold;
+    static const fontWeightsSfproThin = Thin;
     static const gradientStops0 = 0%;
     static const gradientStops100 = 100%;
     static const gradientStopsMathCeil = ceil;
@@ -501,24 +531,25 @@ class  {
     static const lineHeights80 = 80;
     static const lineHeights96 = 96;
     static const opacities0 = 0.0;
-    static const opacities10 = 0.10;
-    static const opacities100 = 1.0;
-    static const opacities12 = 0.12;
-    static const opacities16 = 0.16;
-    static const opacities20 = 0.20;
-    static const opacities30 = 0.30;
-    static const opacities40 = 0.40;
-    static const opacities5 = 0.050;
-    static const opacities50 = 0.50;
-    static const opacities60 = 0.60;
-    static const opacities70 = 0.70;
-    static const opacities8 = 0.080;
-    static const opacities80 = 0.80;
-    static const opacities85 = 0.850;
-    static const opacities9 = 0.090;
-    static const opacities90 = 0.90;
-    static const opacities98 = 0.980;
-    static const opacities99 = 0.990;
+    static const opacities002 = 0.02;
+    static const opacities004 = 0.04;
+    static const opacities008 = 0.08;
+    static const opacities012 = 0.12;
+    static const opacities016 = 0.16;
+    static const opacities020 = 0.2;
+    static const opacities024 = 0.24;
+    static const opacities032 = 0.32;
+    static const opacities040 = 0.4;
+    static const opacities048 = 0.48;
+    static const opacities056 = 0.56;
+    static const opacities064 = 0.64;
+    static const opacities072 = 0.72;
+    static const opacities076 = 0.76;
+    static const opacities080 = 0.80;
+    static const opacities086 = 0.86;
+    static const opacities090 = 0.9;
+    static const opacities094 = 0.94;
+    static const opacities098 = 0.98;
     static const paragraphSpacing0 = 0;
     static const sizing0 = 0;
     static const sizing1 = 1;
@@ -656,7 +687,7 @@ class  {
     static const textDecorationUnderline = underline;
     static const typographyBodyLargeBoldFontFamily = SF Pro;
     static const typographyBodyLargeBoldFontSize = 16;
-    static const typographyBodyLargeBoldFontWeight = Bold;
+    static const typographyBodyLargeBoldFontWeight = Semibold;
     static const typographyBodyLargeBoldLetterSpacing = 0;
     static const typographyBodyLargeBoldLineHeight = 24;
     static const typographyBodyLargeBoldParagraphIndent = 0;
@@ -665,7 +696,7 @@ class  {
     static const typographyBodyLargeBoldTextDecoration = none;
     static const typographyBodyLargeLightFontFamily = SF Pro;
     static const typographyBodyLargeLightFontSize = 16;
-    static const typographyBodyLargeLightFontWeight = Light;
+    static const typographyBodyLargeLightFontWeight = Thin;
     static const typographyBodyLargeLightLetterSpacing = 0;
     static const typographyBodyLargeLightLineHeight = 24;
     static const typographyBodyLargeLightParagraphIndent = 0;
@@ -674,7 +705,7 @@ class  {
     static const typographyBodyLargeLightTextDecoration = none;
     static const typographyBodyLargeRegularFontFamily = SF Pro;
     static const typographyBodyLargeRegularFontSize = 16;
-    static const typographyBodyLargeRegularFontWeight = Regular;
+    static const typographyBodyLargeRegularFontWeight = Light;
     static const typographyBodyLargeRegularLetterSpacing = 0;
     static const typographyBodyLargeRegularLineHeight = 24;
     static const typographyBodyLargeRegularParagraphIndent = 0;
@@ -683,7 +714,7 @@ class  {
     static const typographyBodyLargeRegularTextDecoration = none;
     static const typographyBodyLargeSemiboldFontFamily = SF Pro;
     static const typographyBodyLargeSemiboldFontSize = 16;
-    static const typographyBodyLargeSemiboldFontWeight = Semibold;
+    static const typographyBodyLargeSemiboldFontWeight = Regular;
     static const typographyBodyLargeSemiboldLetterSpacing = 0;
     static const typographyBodyLargeSemiboldLineHeight = 24;
     static const typographyBodyLargeSemiboldParagraphIndent = 0;
@@ -692,7 +723,7 @@ class  {
     static const typographyBodyLargeSemiboldTextDecoration = none;
     static const typographyBodyMediumBoldFontFamily = SF Pro;
     static const typographyBodyMediumBoldFontSize = 14;
-    static const typographyBodyMediumBoldFontWeight = Bold;
+    static const typographyBodyMediumBoldFontWeight = Semibold;
     static const typographyBodyMediumBoldLetterSpacing = 0;
     static const typographyBodyMediumBoldLineHeight = 20;
     static const typographyBodyMediumBoldParagraphIndent = 0;
@@ -701,7 +732,7 @@ class  {
     static const typographyBodyMediumBoldTextDecoration = none;
     static const typographyBodyMediumLightFontFamily = SF Pro;
     static const typographyBodyMediumLightFontSize = 14;
-    static const typographyBodyMediumLightFontWeight = Light;
+    static const typographyBodyMediumLightFontWeight = Thin;
     static const typographyBodyMediumLightLetterSpacing = 0;
     static const typographyBodyMediumLightLineHeight = 20;
     static const typographyBodyMediumLightParagraphIndent = 0;
@@ -710,7 +741,7 @@ class  {
     static const typographyBodyMediumLightTextDecoration = none;
     static const typographyBodyMediumRegularFontFamily = SF Pro;
     static const typographyBodyMediumRegularFontSize = 14;
-    static const typographyBodyMediumRegularFontWeight = Regular;
+    static const typographyBodyMediumRegularFontWeight = Light;
     static const typographyBodyMediumRegularLetterSpacing = 0;
     static const typographyBodyMediumRegularLineHeight = 20;
     static const typographyBodyMediumRegularParagraphIndent = 0;
@@ -719,7 +750,7 @@ class  {
     static const typographyBodyMediumRegularTextDecoration = none;
     static const typographyBodyMediumSemiboldFontFamily = SF Pro;
     static const typographyBodyMediumSemiboldFontSize = 14;
-    static const typographyBodyMediumSemiboldFontWeight = Semibold;
+    static const typographyBodyMediumSemiboldFontWeight = Regular;
     static const typographyBodyMediumSemiboldLetterSpacing = 0;
     static const typographyBodyMediumSemiboldLineHeight = 20;
     static const typographyBodyMediumSemiboldParagraphIndent = 0;
@@ -728,7 +759,7 @@ class  {
     static const typographyBodyMediumSemiboldTextDecoration = none;
     static const typographyBodySmallBoldFontFamily = SF Pro;
     static const typographyBodySmallBoldFontSize = 12;
-    static const typographyBodySmallBoldFontWeight = Bold;
+    static const typographyBodySmallBoldFontWeight = Semibold;
     static const typographyBodySmallBoldLetterSpacing = 0;
     static const typographyBodySmallBoldLineHeight = 16;
     static const typographyBodySmallBoldParagraphIndent = 0;
@@ -737,7 +768,7 @@ class  {
     static const typographyBodySmallBoldTextDecoration = none;
     static const typographyBodySmallLightFontFamily = SF Pro;
     static const typographyBodySmallLightFontSize = 12;
-    static const typographyBodySmallLightFontWeight = Light;
+    static const typographyBodySmallLightFontWeight = Thin;
     static const typographyBodySmallLightLetterSpacing = 0;
     static const typographyBodySmallLightLineHeight = 16;
     static const typographyBodySmallLightParagraphIndent = 0;
@@ -746,7 +777,7 @@ class  {
     static const typographyBodySmallLightTextDecoration = none;
     static const typographyBodySmallRegularFontFamily = SF Pro;
     static const typographyBodySmallRegularFontSize = 12;
-    static const typographyBodySmallRegularFontWeight = Regular;
+    static const typographyBodySmallRegularFontWeight = Light;
     static const typographyBodySmallRegularLetterSpacing = 0;
     static const typographyBodySmallRegularLineHeight = 16;
     static const typographyBodySmallRegularParagraphIndent = 0;
@@ -755,7 +786,7 @@ class  {
     static const typographyBodySmallRegularTextDecoration = none;
     static const typographyBodySmallSemiboldFontFamily = SF Pro;
     static const typographyBodySmallSemiboldFontSize = 12;
-    static const typographyBodySmallSemiboldFontWeight = Semibold;
+    static const typographyBodySmallSemiboldFontWeight = Regular;
     static const typographyBodySmallSemiboldLetterSpacing = 0;
     static const typographyBodySmallSemiboldLineHeight = 16;
     static const typographyBodySmallSemiboldParagraphIndent = 0;
@@ -764,7 +795,7 @@ class  {
     static const typographyBodySmallSemiboldTextDecoration = none;
     static const typographyDisplayLargeBoldFontFamily = SF Pro;
     static const typographyDisplayLargeBoldFontSize = 56;
-    static const typographyDisplayLargeBoldFontWeight = Bold;
+    static const typographyDisplayLargeBoldFontWeight = Semibold;
     static const typographyDisplayLargeBoldLetterSpacing = -2%;
     static const typographyDisplayLargeBoldLineHeight = 64;
     static const typographyDisplayLargeBoldParagraphIndent = 0;
@@ -773,7 +804,7 @@ class  {
     static const typographyDisplayLargeBoldTextDecoration = none;
     static const typographyDisplayLargeLightFontFamily = SF Pro;
     static const typographyDisplayLargeLightFontSize = 56;
-    static const typographyDisplayLargeLightFontWeight = Light;
+    static const typographyDisplayLargeLightFontWeight = Thin;
     static const typographyDisplayLargeLightLetterSpacing = -2%;
     static const typographyDisplayLargeLightLineHeight = 64;
     static const typographyDisplayLargeLightParagraphIndent = 0;
@@ -782,7 +813,7 @@ class  {
     static const typographyDisplayLargeLightTextDecoration = none;
     static const typographyDisplayLargeRegularFontFamily = SF Pro;
     static const typographyDisplayLargeRegularFontSize = 56;
-    static const typographyDisplayLargeRegularFontWeight = Regular;
+    static const typographyDisplayLargeRegularFontWeight = Light;
     static const typographyDisplayLargeRegularLetterSpacing = -2%;
     static const typographyDisplayLargeRegularLineHeight = 64;
     static const typographyDisplayLargeRegularParagraphIndent = 0;
@@ -791,7 +822,7 @@ class  {
     static const typographyDisplayLargeRegularTextDecoration = none;
     static const typographyDisplayLargeSemiboldFontFamily = SF Pro;
     static const typographyDisplayLargeSemiboldFontSize = 56;
-    static const typographyDisplayLargeSemiboldFontWeight = Semibold;
+    static const typographyDisplayLargeSemiboldFontWeight = Regular;
     static const typographyDisplayLargeSemiboldLetterSpacing = -2%;
     static const typographyDisplayLargeSemiboldLineHeight = 64;
     static const typographyDisplayLargeSemiboldParagraphIndent = 0;
@@ -800,7 +831,7 @@ class  {
     static const typographyDisplayLargeSemiboldTextDecoration = none;
     static const typographyDisplayMediumBoldFontFamily = SF Pro;
     static const typographyDisplayMediumBoldFontSize = 44;
-    static const typographyDisplayMediumBoldFontWeight = Bold;
+    static const typographyDisplayMediumBoldFontWeight = Semibold;
     static const typographyDisplayMediumBoldLetterSpacing = -1%;
     static const typographyDisplayMediumBoldLineHeight = 52;
     static const typographyDisplayMediumBoldParagraphIndent = 0;
@@ -809,7 +840,7 @@ class  {
     static const typographyDisplayMediumBoldTextDecoration = none;
     static const typographyDisplayMediumLightFontFamily = SF Pro;
     static const typographyDisplayMediumLightFontSize = 44;
-    static const typographyDisplayMediumLightFontWeight = Light;
+    static const typographyDisplayMediumLightFontWeight = Thin;
     static const typographyDisplayMediumLightLetterSpacing = -1%;
     static const typographyDisplayMediumLightLineHeight = 52;
     static const typographyDisplayMediumLightParagraphIndent = 0;
@@ -818,7 +849,7 @@ class  {
     static const typographyDisplayMediumLightTextDecoration = none;
     static const typographyDisplayMediumRegularFontFamily = SF Pro;
     static const typographyDisplayMediumRegularFontSize = 44;
-    static const typographyDisplayMediumRegularFontWeight = Regular;
+    static const typographyDisplayMediumRegularFontWeight = Light;
     static const typographyDisplayMediumRegularLetterSpacing = -1%;
     static const typographyDisplayMediumRegularLineHeight = 52;
     static const typographyDisplayMediumRegularParagraphIndent = 0;
@@ -827,7 +858,7 @@ class  {
     static const typographyDisplayMediumRegularTextDecoration = none;
     static const typographyDisplayMediumSemiboldFontFamily = SF Pro;
     static const typographyDisplayMediumSemiboldFontSize = 44;
-    static const typographyDisplayMediumSemiboldFontWeight = Semibold;
+    static const typographyDisplayMediumSemiboldFontWeight = Regular;
     static const typographyDisplayMediumSemiboldLetterSpacing = -1%;
     static const typographyDisplayMediumSemiboldLineHeight = 52;
     static const typographyDisplayMediumSemiboldParagraphIndent = 0;
@@ -836,7 +867,7 @@ class  {
     static const typographyDisplayMediumSemiboldTextDecoration = none;
     static const typographyDisplaySmallBoldFontFamily = SF Pro;
     static const typographyDisplaySmallBoldFontSize = 36;
-    static const typographyDisplaySmallBoldFontWeight = Bold;
+    static const typographyDisplaySmallBoldFontWeight = Semibold;
     static const typographyDisplaySmallBoldLetterSpacing = -1%;
     static const typographyDisplaySmallBoldLineHeight = 44;
     static const typographyDisplaySmallBoldParagraphIndent = 0;
@@ -845,7 +876,7 @@ class  {
     static const typographyDisplaySmallBoldTextDecoration = none;
     static const typographyDisplaySmallLightFontFamily = SF Pro;
     static const typographyDisplaySmallLightFontSize = 36;
-    static const typographyDisplaySmallLightFontWeight = Light;
+    static const typographyDisplaySmallLightFontWeight = Thin;
     static const typographyDisplaySmallLightLetterSpacing = -1%;
     static const typographyDisplaySmallLightLineHeight = 44;
     static const typographyDisplaySmallLightParagraphIndent = 0;
@@ -854,7 +885,7 @@ class  {
     static const typographyDisplaySmallLightTextDecoration = none;
     static const typographyDisplaySmallRegularFontFamily = SF Pro;
     static const typographyDisplaySmallRegularFontSize = 36;
-    static const typographyDisplaySmallRegularFontWeight = Regular;
+    static const typographyDisplaySmallRegularFontWeight = Light;
     static const typographyDisplaySmallRegularLetterSpacing = -1%;
     static const typographyDisplaySmallRegularLineHeight = 44;
     static const typographyDisplaySmallRegularParagraphIndent = 0;
@@ -863,7 +894,7 @@ class  {
     static const typographyDisplaySmallRegularTextDecoration = none;
     static const typographyDisplaySmallSemiboldFontFamily = SF Pro;
     static const typographyDisplaySmallSemiboldFontSize = 36;
-    static const typographyDisplaySmallSemiboldFontWeight = Semibold;
+    static const typographyDisplaySmallSemiboldFontWeight = Regular;
     static const typographyDisplaySmallSemiboldLetterSpacing = -1%;
     static const typographyDisplaySmallSemiboldLineHeight = 44;
     static const typographyDisplaySmallSemiboldParagraphIndent = 0;
@@ -872,7 +903,7 @@ class  {
     static const typographyDisplaySmallSemiboldTextDecoration = none;
     static const typographyHeadlineLargeBoldFontFamily = SF Pro;
     static const typographyHeadlineLargeBoldFontSize = 32;
-    static const typographyHeadlineLargeBoldFontWeight = Bold;
+    static const typographyHeadlineLargeBoldFontWeight = Semibold;
     static const typographyHeadlineLargeBoldLetterSpacing = -1%;
     static const typographyHeadlineLargeBoldLineHeight = 40;
     static const typographyHeadlineLargeBoldParagraphIndent = 0;
@@ -881,7 +912,7 @@ class  {
     static const typographyHeadlineLargeBoldTextDecoration = none;
     static const typographyHeadlineLargeLightFontFamily = SF Pro;
     static const typographyHeadlineLargeLightFontSize = 32;
-    static const typographyHeadlineLargeLightFontWeight = Light;
+    static const typographyHeadlineLargeLightFontWeight = Thin;
     static const typographyHeadlineLargeLightLetterSpacing = -1%;
     static const typographyHeadlineLargeLightLineHeight = 40;
     static const typographyHeadlineLargeLightParagraphIndent = 0;
@@ -890,7 +921,7 @@ class  {
     static const typographyHeadlineLargeLightTextDecoration = none;
     static const typographyHeadlineLargeRegularFontFamily = SF Pro;
     static const typographyHeadlineLargeRegularFontSize = 32;
-    static const typographyHeadlineLargeRegularFontWeight = Regular;
+    static const typographyHeadlineLargeRegularFontWeight = Light;
     static const typographyHeadlineLargeRegularLetterSpacing = -1%;
     static const typographyHeadlineLargeRegularLineHeight = 40;
     static const typographyHeadlineLargeRegularParagraphIndent = 0;
@@ -899,7 +930,7 @@ class  {
     static const typographyHeadlineLargeRegularTextDecoration = none;
     static const typographyHeadlineLargeSemiboldFontFamily = SF Pro;
     static const typographyHeadlineLargeSemiboldFontSize = 32;
-    static const typographyHeadlineLargeSemiboldFontWeight = Semibold;
+    static const typographyHeadlineLargeSemiboldFontWeight = Regular;
     static const typographyHeadlineLargeSemiboldLetterSpacing = -1%;
     static const typographyHeadlineLargeSemiboldLineHeight = 40;
     static const typographyHeadlineLargeSemiboldParagraphIndent = 0;
@@ -908,7 +939,7 @@ class  {
     static const typographyHeadlineLargeSemiboldTextDecoration = none;
     static const typographyHeadlineMediumBoldFontFamily = SF Pro;
     static const typographyHeadlineMediumBoldFontSize = 28;
-    static const typographyHeadlineMediumBoldFontWeight = Bold;
+    static const typographyHeadlineMediumBoldFontWeight = Semibold;
     static const typographyHeadlineMediumBoldLetterSpacing = -0.4%;
     static const typographyHeadlineMediumBoldLineHeight = 36;
     static const typographyHeadlineMediumBoldParagraphIndent = 0;
@@ -917,7 +948,7 @@ class  {
     static const typographyHeadlineMediumBoldTextDecoration = none;
     static const typographyHeadlineMediumLightFontFamily = SF Pro;
     static const typographyHeadlineMediumLightFontSize = 28;
-    static const typographyHeadlineMediumLightFontWeight = Light;
+    static const typographyHeadlineMediumLightFontWeight = Thin;
     static const typographyHeadlineMediumLightLetterSpacing = -0.4%;
     static const typographyHeadlineMediumLightLineHeight = 36;
     static const typographyHeadlineMediumLightParagraphIndent = 0;
@@ -926,7 +957,7 @@ class  {
     static const typographyHeadlineMediumLightTextDecoration = none;
     static const typographyHeadlineMediumRegularFontFamily = SF Pro;
     static const typographyHeadlineMediumRegularFontSize = 28;
-    static const typographyHeadlineMediumRegularFontWeight = Regular;
+    static const typographyHeadlineMediumRegularFontWeight = Light;
     static const typographyHeadlineMediumRegularLetterSpacing = -0.4%;
     static const typographyHeadlineMediumRegularLineHeight = 36;
     static const typographyHeadlineMediumRegularParagraphIndent = 0;
@@ -935,7 +966,7 @@ class  {
     static const typographyHeadlineMediumRegularTextDecoration = none;
     static const typographyHeadlineMediumSemiboldFontFamily = SF Pro;
     static const typographyHeadlineMediumSemiboldFontSize = 28;
-    static const typographyHeadlineMediumSemiboldFontWeight = Semibold;
+    static const typographyHeadlineMediumSemiboldFontWeight = Regular;
     static const typographyHeadlineMediumSemiboldLetterSpacing = -0.4%;
     static const typographyHeadlineMediumSemiboldLineHeight = 36;
     static const typographyHeadlineMediumSemiboldParagraphIndent = 0;
@@ -944,7 +975,7 @@ class  {
     static const typographyHeadlineMediumSemiboldTextDecoration = none;
     static const typographyHeadlineSmallBoldFontFamily = SF Pro;
     static const typographyHeadlineSmallBoldFontSize = 24;
-    static const typographyHeadlineSmallBoldFontWeight = Bold;
+    static const typographyHeadlineSmallBoldFontWeight = Semibold;
     static const typographyHeadlineSmallBoldLetterSpacing = -0.4%;
     static const typographyHeadlineSmallBoldLineHeight = 32;
     static const typographyHeadlineSmallBoldParagraphIndent = 0;
@@ -953,7 +984,7 @@ class  {
     static const typographyHeadlineSmallBoldTextDecoration = none;
     static const typographyHeadlineSmallLightFontFamily = SF Pro;
     static const typographyHeadlineSmallLightFontSize = 24;
-    static const typographyHeadlineSmallLightFontWeight = Light;
+    static const typographyHeadlineSmallLightFontWeight = Thin;
     static const typographyHeadlineSmallLightLetterSpacing = -0.4%;
     static const typographyHeadlineSmallLightLineHeight = 32;
     static const typographyHeadlineSmallLightParagraphIndent = 0;
@@ -962,7 +993,7 @@ class  {
     static const typographyHeadlineSmallLightTextDecoration = none;
     static const typographyHeadlineSmallRegularFontFamily = SF Pro;
     static const typographyHeadlineSmallRegularFontSize = 24;
-    static const typographyHeadlineSmallRegularFontWeight = Regular;
+    static const typographyHeadlineSmallRegularFontWeight = Light;
     static const typographyHeadlineSmallRegularLetterSpacing = -0.4%;
     static const typographyHeadlineSmallRegularLineHeight = 32;
     static const typographyHeadlineSmallRegularParagraphIndent = 0;
@@ -971,7 +1002,7 @@ class  {
     static const typographyHeadlineSmallRegularTextDecoration = none;
     static const typographyHeadlineSmallSemiboldFontFamily = SF Pro;
     static const typographyHeadlineSmallSemiboldFontSize = 24;
-    static const typographyHeadlineSmallSemiboldFontWeight = Semibold;
+    static const typographyHeadlineSmallSemiboldFontWeight = Regular;
     static const typographyHeadlineSmallSemiboldLetterSpacing = -0.4%;
     static const typographyHeadlineSmallSemiboldLineHeight = 32;
     static const typographyHeadlineSmallSemiboldParagraphIndent = 0;
@@ -980,7 +1011,7 @@ class  {
     static const typographyHeadlineSmallSemiboldTextDecoration = none;
     static const typographyLabelLargeBoldFontFamily = SF Pro;
     static const typographyLabelLargeBoldFontSize = 14;
-    static const typographyLabelLargeBoldFontWeight = Bold;
+    static const typographyLabelLargeBoldFontWeight = Semibold;
     static const typographyLabelLargeBoldLetterSpacing = 0;
     static const typographyLabelLargeBoldLineHeight = 20;
     static const typographyLabelLargeBoldParagraphIndent = 0;
@@ -989,7 +1020,7 @@ class  {
     static const typographyLabelLargeBoldTextDecoration = none;
     static const typographyLabelLargeLightFontFamily = SF Pro;
     static const typographyLabelLargeLightFontSize = 14;
-    static const typographyLabelLargeLightFontWeight = Light;
+    static const typographyLabelLargeLightFontWeight = Thin;
     static const typographyLabelLargeLightLetterSpacing = 0;
     static const typographyLabelLargeLightLineHeight = 20;
     static const typographyLabelLargeLightParagraphIndent = 0;
@@ -998,7 +1029,7 @@ class  {
     static const typographyLabelLargeLightTextDecoration = none;
     static const typographyLabelLargeRegularFontFamily = SF Pro;
     static const typographyLabelLargeRegularFontSize = 14;
-    static const typographyLabelLargeRegularFontWeight = Regular;
+    static const typographyLabelLargeRegularFontWeight = Light;
     static const typographyLabelLargeRegularLetterSpacing = 0;
     static const typographyLabelLargeRegularLineHeight = 20;
     static const typographyLabelLargeRegularParagraphIndent = 0;
@@ -1007,7 +1038,7 @@ class  {
     static const typographyLabelLargeRegularTextDecoration = none;
     static const typographyLabelLargeSemiboldFontFamily = SF Pro;
     static const typographyLabelLargeSemiboldFontSize = 14;
-    static const typographyLabelLargeSemiboldFontWeight = Semibold;
+    static const typographyLabelLargeSemiboldFontWeight = Regular;
     static const typographyLabelLargeSemiboldLetterSpacing = 0;
     static const typographyLabelLargeSemiboldLineHeight = 20;
     static const typographyLabelLargeSemiboldParagraphIndent = 0;
@@ -1016,7 +1047,7 @@ class  {
     static const typographyLabelLargeSemiboldTextDecoration = none;
     static const typographyLabelMediumBoldFontFamily = SF Pro;
     static const typographyLabelMediumBoldFontSize = 12;
-    static const typographyLabelMediumBoldFontWeight = Bold;
+    static const typographyLabelMediumBoldFontWeight = Semibold;
     static const typographyLabelMediumBoldLetterSpacing = 0;
     static const typographyLabelMediumBoldLineHeight = 16;
     static const typographyLabelMediumBoldParagraphIndent = 0;
@@ -1025,7 +1056,7 @@ class  {
     static const typographyLabelMediumBoldTextDecoration = none;
     static const typographyLabelMediumLightFontFamily = SF Pro;
     static const typographyLabelMediumLightFontSize = 12;
-    static const typographyLabelMediumLightFontWeight = Light;
+    static const typographyLabelMediumLightFontWeight = Thin;
     static const typographyLabelMediumLightLetterSpacing = 0;
     static const typographyLabelMediumLightLineHeight = 16;
     static const typographyLabelMediumLightParagraphIndent = 0;
@@ -1034,7 +1065,7 @@ class  {
     static const typographyLabelMediumLightTextDecoration = none;
     static const typographyLabelMediumRegularFontFamily = SF Pro;
     static const typographyLabelMediumRegularFontSize = 12;
-    static const typographyLabelMediumRegularFontWeight = Regular;
+    static const typographyLabelMediumRegularFontWeight = Light;
     static const typographyLabelMediumRegularLetterSpacing = 0;
     static const typographyLabelMediumRegularLineHeight = 16;
     static const typographyLabelMediumRegularParagraphIndent = 0;
@@ -1043,7 +1074,7 @@ class  {
     static const typographyLabelMediumRegularTextDecoration = none;
     static const typographyLabelMediumSemiboldFontFamily = SF Pro;
     static const typographyLabelMediumSemiboldFontSize = 12;
-    static const typographyLabelMediumSemiboldFontWeight = Semibold;
+    static const typographyLabelMediumSemiboldFontWeight = Regular;
     static const typographyLabelMediumSemiboldLetterSpacing = 0;
     static const typographyLabelMediumSemiboldLineHeight = 16;
     static const typographyLabelMediumSemiboldParagraphIndent = 0;
@@ -1052,7 +1083,7 @@ class  {
     static const typographyLabelMediumSemiboldTextDecoration = none;
     static const typographyLabelSmallBoldFontFamily = SF Pro;
     static const typographyLabelSmallBoldFontSize = 10;
-    static const typographyLabelSmallBoldFontWeight = Bold;
+    static const typographyLabelSmallBoldFontWeight = Semibold;
     static const typographyLabelSmallBoldLetterSpacing = 0;
     static const typographyLabelSmallBoldLineHeight = 16;
     static const typographyLabelSmallBoldParagraphIndent = 0;
@@ -1061,7 +1092,7 @@ class  {
     static const typographyLabelSmallBoldTextDecoration = none;
     static const typographyLabelSmallLightFontFamily = SF Pro;
     static const typographyLabelSmallLightFontSize = 10;
-    static const typographyLabelSmallLightFontWeight = Light;
+    static const typographyLabelSmallLightFontWeight = Thin;
     static const typographyLabelSmallLightLetterSpacing = 0;
     static const typographyLabelSmallLightLineHeight = 16;
     static const typographyLabelSmallLightParagraphIndent = 0;
@@ -1070,7 +1101,7 @@ class  {
     static const typographyLabelSmallLightTextDecoration = none;
     static const typographyLabelSmallRegularFontFamily = SF Pro;
     static const typographyLabelSmallRegularFontSize = 10;
-    static const typographyLabelSmallRegularFontWeight = Regular;
+    static const typographyLabelSmallRegularFontWeight = Light;
     static const typographyLabelSmallRegularLetterSpacing = 0;
     static const typographyLabelSmallRegularLineHeight = 16;
     static const typographyLabelSmallRegularParagraphIndent = 0;
@@ -1079,7 +1110,7 @@ class  {
     static const typographyLabelSmallRegularTextDecoration = none;
     static const typographyLabelSmallSemiboldFontFamily = SF Pro;
     static const typographyLabelSmallSemiboldFontSize = 10;
-    static const typographyLabelSmallSemiboldFontWeight = Semibold;
+    static const typographyLabelSmallSemiboldFontWeight = Regular;
     static const typographyLabelSmallSemiboldLetterSpacing = 0;
     static const typographyLabelSmallSemiboldLineHeight = 16;
     static const typographyLabelSmallSemiboldParagraphIndent = 0;
@@ -1088,7 +1119,7 @@ class  {
     static const typographyLabelSmallSemiboldTextDecoration = none;
     static const typographyLinkLargeBoldFontFamily = SF Pro;
     static const typographyLinkLargeBoldFontSize = 16;
-    static const typographyLinkLargeBoldFontWeight = Bold;
+    static const typographyLinkLargeBoldFontWeight = Semibold;
     static const typographyLinkLargeBoldLetterSpacing = 0;
     static const typographyLinkLargeBoldLineHeight = 24;
     static const typographyLinkLargeBoldParagraphIndent = 0;
@@ -1097,7 +1128,7 @@ class  {
     static const typographyLinkLargeBoldTextDecoration = underline;
     static const typographyLinkLargeLightFontFamily = SF Pro;
     static const typographyLinkLargeLightFontSize = 16;
-    static const typographyLinkLargeLightFontWeight = Light;
+    static const typographyLinkLargeLightFontWeight = Thin;
     static const typographyLinkLargeLightLetterSpacing = 0;
     static const typographyLinkLargeLightLineHeight = 24;
     static const typographyLinkLargeLightParagraphIndent = 0;
@@ -1106,7 +1137,7 @@ class  {
     static const typographyLinkLargeLightTextDecoration = underline;
     static const typographyLinkLargeRegularFontFamily = SF Pro;
     static const typographyLinkLargeRegularFontSize = 16;
-    static const typographyLinkLargeRegularFontWeight = Regular;
+    static const typographyLinkLargeRegularFontWeight = Light;
     static const typographyLinkLargeRegularLetterSpacing = 0;
     static const typographyLinkLargeRegularLineHeight = 24;
     static const typographyLinkLargeRegularParagraphIndent = 0;
@@ -1115,7 +1146,7 @@ class  {
     static const typographyLinkLargeRegularTextDecoration = underline;
     static const typographyLinkLargeSemiboldFontFamily = SF Pro;
     static const typographyLinkLargeSemiboldFontSize = 16;
-    static const typographyLinkLargeSemiboldFontWeight = Semibold;
+    static const typographyLinkLargeSemiboldFontWeight = Regular;
     static const typographyLinkLargeSemiboldLetterSpacing = 0;
     static const typographyLinkLargeSemiboldLineHeight = 24;
     static const typographyLinkLargeSemiboldParagraphIndent = 0;
@@ -1124,7 +1155,7 @@ class  {
     static const typographyLinkLargeSemiboldTextDecoration = underline;
     static const typographyLinkMediumBoldFontFamily = SF Pro;
     static const typographyLinkMediumBoldFontSize = 14;
-    static const typographyLinkMediumBoldFontWeight = Bold;
+    static const typographyLinkMediumBoldFontWeight = Semibold;
     static const typographyLinkMediumBoldLetterSpacing = 0;
     static const typographyLinkMediumBoldLineHeight = 20;
     static const typographyLinkMediumBoldParagraphIndent = 0;
@@ -1133,7 +1164,7 @@ class  {
     static const typographyLinkMediumBoldTextDecoration = underline;
     static const typographyLinkMediumLightFontFamily = SF Pro;
     static const typographyLinkMediumLightFontSize = 14;
-    static const typographyLinkMediumLightFontWeight = Light;
+    static const typographyLinkMediumLightFontWeight = Thin;
     static const typographyLinkMediumLightLetterSpacing = 0;
     static const typographyLinkMediumLightLineHeight = 20;
     static const typographyLinkMediumLightParagraphIndent = 0;
@@ -1142,7 +1173,7 @@ class  {
     static const typographyLinkMediumLightTextDecoration = underline;
     static const typographyLinkMediumRegularFontFamily = SF Pro;
     static const typographyLinkMediumRegularFontSize = 14;
-    static const typographyLinkMediumRegularFontWeight = Regular;
+    static const typographyLinkMediumRegularFontWeight = Light;
     static const typographyLinkMediumRegularLetterSpacing = 0;
     static const typographyLinkMediumRegularLineHeight = 20;
     static const typographyLinkMediumRegularParagraphIndent = 0;
@@ -1151,7 +1182,7 @@ class  {
     static const typographyLinkMediumRegularTextDecoration = underline;
     static const typographyLinkMediumSemiboldFontFamily = SF Pro;
     static const typographyLinkMediumSemiboldFontSize = 14;
-    static const typographyLinkMediumSemiboldFontWeight = Semibold;
+    static const typographyLinkMediumSemiboldFontWeight = Regular;
     static const typographyLinkMediumSemiboldLetterSpacing = 0;
     static const typographyLinkMediumSemiboldLineHeight = 20;
     static const typographyLinkMediumSemiboldParagraphIndent = 0;
@@ -1160,7 +1191,7 @@ class  {
     static const typographyLinkMediumSemiboldTextDecoration = underline;
     static const typographyLinkSmallBoldFontFamily = SF Pro;
     static const typographyLinkSmallBoldFontSize = 12;
-    static const typographyLinkSmallBoldFontWeight = Bold;
+    static const typographyLinkSmallBoldFontWeight = Semibold;
     static const typographyLinkSmallBoldLetterSpacing = 0;
     static const typographyLinkSmallBoldLineHeight = 16;
     static const typographyLinkSmallBoldParagraphIndent = 0;
@@ -1169,7 +1200,7 @@ class  {
     static const typographyLinkSmallBoldTextDecoration = underline;
     static const typographyLinkSmallLightFontFamily = SF Pro;
     static const typographyLinkSmallLightFontSize = 12;
-    static const typographyLinkSmallLightFontWeight = Light;
+    static const typographyLinkSmallLightFontWeight = Thin;
     static const typographyLinkSmallLightLetterSpacing = 0;
     static const typographyLinkSmallLightLineHeight = 16;
     static const typographyLinkSmallLightParagraphIndent = 0;
@@ -1178,7 +1209,7 @@ class  {
     static const typographyLinkSmallLightTextDecoration = underline;
     static const typographyLinkSmallRegularFontFamily = SF Pro;
     static const typographyLinkSmallRegularFontSize = 12;
-    static const typographyLinkSmallRegularFontWeight = Regular;
+    static const typographyLinkSmallRegularFontWeight = Light;
     static const typographyLinkSmallRegularLetterSpacing = 0;
     static const typographyLinkSmallRegularLineHeight = 16;
     static const typographyLinkSmallRegularParagraphIndent = 0;
@@ -1187,7 +1218,7 @@ class  {
     static const typographyLinkSmallRegularTextDecoration = underline;
     static const typographyLinkSmallSemiboldFontFamily = SF Pro;
     static const typographyLinkSmallSemiboldFontSize = 12;
-    static const typographyLinkSmallSemiboldFontWeight = Semibold;
+    static const typographyLinkSmallSemiboldFontWeight = Regular;
     static const typographyLinkSmallSemiboldLetterSpacing = 0;
     static const typographyLinkSmallSemiboldLineHeight = 16;
     static const typographyLinkSmallSemiboldParagraphIndent = 0;
@@ -1196,7 +1227,7 @@ class  {
     static const typographyLinkSmallSemiboldTextDecoration = underline;
     static const typographyTitleLargeBoldFontFamily = SF Pro;
     static const typographyTitleLargeBoldFontSize = 22;
-    static const typographyTitleLargeBoldFontWeight = Bold;
+    static const typographyTitleLargeBoldFontWeight = Semibold;
     static const typographyTitleLargeBoldLetterSpacing = -0.4%;
     static const typographyTitleLargeBoldLineHeight = 28;
     static const typographyTitleLargeBoldParagraphIndent = 0;
@@ -1205,7 +1236,7 @@ class  {
     static const typographyTitleLargeBoldTextDecoration = none;
     static const typographyTitleLargeLightFontFamily = SF Pro;
     static const typographyTitleLargeLightFontSize = 22;
-    static const typographyTitleLargeLightFontWeight = Light;
+    static const typographyTitleLargeLightFontWeight = Thin;
     static const typographyTitleLargeLightLetterSpacing = -0.4%;
     static const typographyTitleLargeLightLineHeight = 28;
     static const typographyTitleLargeLightParagraphIndent = 0;
@@ -1214,7 +1245,7 @@ class  {
     static const typographyTitleLargeLightTextDecoration = none;
     static const typographyTitleLargeRegularFontFamily = SF Pro;
     static const typographyTitleLargeRegularFontSize = 22;
-    static const typographyTitleLargeRegularFontWeight = Regular;
+    static const typographyTitleLargeRegularFontWeight = Light;
     static const typographyTitleLargeRegularLetterSpacing = -0.4%;
     static const typographyTitleLargeRegularLineHeight = 28;
     static const typographyTitleLargeRegularParagraphIndent = 0;
@@ -1223,7 +1254,7 @@ class  {
     static const typographyTitleLargeRegularTextDecoration = none;
     static const typographyTitleLargeSemiboldFontFamily = SF Pro;
     static const typographyTitleLargeSemiboldFontSize = 22;
-    static const typographyTitleLargeSemiboldFontWeight = Semibold;
+    static const typographyTitleLargeSemiboldFontWeight = Regular;
     static const typographyTitleLargeSemiboldLetterSpacing = -0.4%;
     static const typographyTitleLargeSemiboldLineHeight = 28;
     static const typographyTitleLargeSemiboldParagraphIndent = 0;
@@ -1232,7 +1263,7 @@ class  {
     static const typographyTitleLargeSemiboldTextDecoration = none;
     static const typographyTitleMediumBoldFontFamily = SF Pro;
     static const typographyTitleMediumBoldFontSize = 16;
-    static const typographyTitleMediumBoldFontWeight = Bold;
+    static const typographyTitleMediumBoldFontWeight = Semibold;
     static const typographyTitleMediumBoldLetterSpacing = -0.2%;
     static const typographyTitleMediumBoldLineHeight = 24;
     static const typographyTitleMediumBoldParagraphIndent = 0;
@@ -1241,7 +1272,7 @@ class  {
     static const typographyTitleMediumBoldTextDecoration = none;
     static const typographyTitleMediumLightFontFamily = SF Pro;
     static const typographyTitleMediumLightFontSize = 16;
-    static const typographyTitleMediumLightFontWeight = Light;
+    static const typographyTitleMediumLightFontWeight = Thin;
     static const typographyTitleMediumLightLetterSpacing = -0.2%;
     static const typographyTitleMediumLightLineHeight = 24;
     static const typographyTitleMediumLightParagraphIndent = 0;
@@ -1250,7 +1281,7 @@ class  {
     static const typographyTitleMediumLightTextDecoration = none;
     static const typographyTitleMediumRegularFontFamily = SF Pro;
     static const typographyTitleMediumRegularFontSize = 16;
-    static const typographyTitleMediumRegularFontWeight = Regular;
+    static const typographyTitleMediumRegularFontWeight = Light;
     static const typographyTitleMediumRegularLetterSpacing = -0.2%;
     static const typographyTitleMediumRegularLineHeight = 24;
     static const typographyTitleMediumRegularParagraphIndent = 0;
@@ -1259,7 +1290,7 @@ class  {
     static const typographyTitleMediumRegularTextDecoration = none;
     static const typographyTitleMediumSemiboldFontFamily = SF Pro;
     static const typographyTitleMediumSemiboldFontSize = 16;
-    static const typographyTitleMediumSemiboldFontWeight = Semibold;
+    static const typographyTitleMediumSemiboldFontWeight = Regular;
     static const typographyTitleMediumSemiboldLetterSpacing = -0.2%;
     static const typographyTitleMediumSemiboldLineHeight = 24;
     static const typographyTitleMediumSemiboldParagraphIndent = 0;
@@ -1268,7 +1299,7 @@ class  {
     static const typographyTitleMediumSemiboldTextDecoration = none;
     static const typographyTitleSmallBoldFontFamily = SF Pro;
     static const typographyTitleSmallBoldFontSize = 14;
-    static const typographyTitleSmallBoldFontWeight = Bold;
+    static const typographyTitleSmallBoldFontWeight = Semibold;
     static const typographyTitleSmallBoldLetterSpacing = 0;
     static const typographyTitleSmallBoldLineHeight = 20;
     static const typographyTitleSmallBoldParagraphIndent = 0;
@@ -1277,7 +1308,7 @@ class  {
     static const typographyTitleSmallBoldTextDecoration = none;
     static const typographyTitleSmallLightFontFamily = SF Pro;
     static const typographyTitleSmallLightFontSize = 14;
-    static const typographyTitleSmallLightFontWeight = Light;
+    static const typographyTitleSmallLightFontWeight = Thin;
     static const typographyTitleSmallLightLetterSpacing = 0;
     static const typographyTitleSmallLightLineHeight = 20;
     static const typographyTitleSmallLightParagraphIndent = 0;
@@ -1286,7 +1317,7 @@ class  {
     static const typographyTitleSmallLightTextDecoration = none;
     static const typographyTitleSmallRegularFontFamily = SF Pro;
     static const typographyTitleSmallRegularFontSize = 14;
-    static const typographyTitleSmallRegularFontWeight = Regular;
+    static const typographyTitleSmallRegularFontWeight = Light;
     static const typographyTitleSmallRegularLetterSpacing = 0;
     static const typographyTitleSmallRegularLineHeight = 20;
     static const typographyTitleSmallRegularParagraphIndent = 0;
@@ -1295,7 +1326,7 @@ class  {
     static const typographyTitleSmallRegularTextDecoration = none;
     static const typographyTitleSmallSemiboldFontFamily = SF Pro;
     static const typographyTitleSmallSemiboldFontSize = 14;
-    static const typographyTitleSmallSemiboldFontWeight = Semibold;
+    static const typographyTitleSmallSemiboldFontWeight = Regular;
     static const typographyTitleSmallSemiboldLetterSpacing = 0;
     static const typographyTitleSmallSemiboldLineHeight = 20;
     static const typographyTitleSmallSemiboldParagraphIndent = 0;
