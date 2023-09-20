@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 20 Sep 2023 21:48:13 GMT
+// Generated on Wed, 20 Sep 2023 23:10:13 GMT
 
 
 
@@ -93,46 +93,6 @@ class  {
     static const colorAccent70 = Color(0xFFD0D9FE);
     static const colorAccent80 = Color(0xFFC5D0FD);
     static const colorAccent90 = Color(0xFFA8B9FD);
-    static const colorAlphaBlack0 = Color(0xFF000000);
-    static const colorAlphaBlack002 = Color(0xFF000000);
-    static const colorAlphaBlack004 = Color(0xFF000000);
-    static const colorAlphaBlack008 = Color(0xFF000000);
-    static const colorAlphaBlack012 = Color(0xFF000000);
-    static const colorAlphaBlack016 = Color(0xFF000000);
-    static const colorAlphaBlack020 = Color(0xFF000000);
-    static const colorAlphaBlack024 = Color(0xFF000000);
-    static const colorAlphaBlack032 = Color(0xFF000000);
-    static const colorAlphaBlack040 = Color(0xFF000000);
-    static const colorAlphaBlack048 = Color(0xFF000000);
-    static const colorAlphaBlack056 = Color(0xFF000000);
-    static const colorAlphaBlack064 = Color(0xFF000000);
-    static const colorAlphaBlack072 = Color(0xFF000000);
-    static const colorAlphaBlack076 = Color(0xFF000000);
-    static const colorAlphaBlack080 = Color(0xFF000000);
-    static const colorAlphaBlack086 = Color(0xFF000000);
-    static const colorAlphaBlack090 = Color(0xFF000000);
-    static const colorAlphaBlack094 = Color(0xFF000000);
-    static const colorAlphaBlack098 = Color(0xFF000000);
-    static const colorAlphaWhite0 = Color(0xFF000000);
-    static const colorAlphaWhite002 = Color(0xFF000000);
-    static const colorAlphaWhite004 = Color(0xFF000000);
-    static const colorAlphaWhite008 = Color(0xFF000000);
-    static const colorAlphaWhite012 = Color(0xFF000000);
-    static const colorAlphaWhite016 = Color(0xFF000000);
-    static const colorAlphaWhite020 = Color(0xFF000000);
-    static const colorAlphaWhite024 = Color(0xFF000000);
-    static const colorAlphaWhite032 = Color(0xFF000000);
-    static const colorAlphaWhite040 = Color(0xFF000000);
-    static const colorAlphaWhite048 = Color(0xFF000000);
-    static const colorAlphaWhite056 = Color(0xFF000000);
-    static const colorAlphaWhite064 = Color(0xFF000000);
-    static const colorAlphaWhite072 = Color(0xFF000000);
-    static const colorAlphaWhite076 = Color(0xFF000000);
-    static const colorAlphaWhite080 = Color(0xFF000000);
-    static const colorAlphaWhite086 = Color(0xFF000000);
-    static const colorAlphaWhite090 = Color(0xFF000000);
-    static const colorAlphaWhite094 = Color(0xFF000000);
-    static const colorAlphaWhite098 = Color(0xFF000000);
     static const colorBlack = Color(0xFF131313);
     static const colorBlue10 = Color(0xFFFFFFFF);
     static const colorBlue100 = Color(0xFF77A7F0);
@@ -168,6 +128,7 @@ class  {
     static const colorBody50 = Color(0xFFE8E8E8);
     static const colorBody60 = Color(0xFFE2E2E2);
     static const colorBody70 = Color(0xFFDADADA);
+    static const colorBody80 = Color(0xFFD1D1D1);
     static const colorCelery10 = Color(0xFFFFFFFF);
     static const colorCelery100 = Color(0xFF5FBA4F);
     static const colorCelery110 = Color(0xFF4B973E);
@@ -539,6 +500,7 @@ class  {
     static const opacities020 = 0.2;
     static const opacities024 = 0.24;
     static const opacities032 = 0.32;
+    static const opacities038 = 0.38;
     static const opacities040 = 0.4;
     static const opacities048 = 0.48;
     static const opacities056 = 0.56;
