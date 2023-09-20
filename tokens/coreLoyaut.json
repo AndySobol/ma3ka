@@ -1183,88 +1183,64 @@
     }
   },
   "fontWeights": {
-    "font": {
-      "100": {
-        "value": "{fontWeights.core.sfpro.thin}",
-        "type": "fontWeights"
-      },
-      "200": {
-        "value": "{fontWeights.core.sfpro.light}",
-        "type": "fontWeights"
-      },
-      "400": {
-        "value": "{fontWeights.core.sfpro.regular}",
-        "type": "fontWeights"
-      },
-      "600": {
-        "value": "{fontWeights.core.sfpro.semibold}",
-        "type": "fontWeights"
-      },
-      "700": {
-        "value": "{fontWeights.core.sfpro.bold}",
-        "type": "fontWeights"
-      }
-    },
-    "core": {
-      "sfpro": {
-        "thin": {
-          "value": "Thin",
-          "type": "fontWeights"
-        },
-        "light": {
-          "value": "Light",
-          "type": "fontWeights"
-        },
-        "regular": {
-          "value": "Regular",
-          "type": "fontWeights"
-        },
-        "semibold": {
-          "value": "Semibold",
-          "type": "fontWeights"
-        },
-        "bold": {
-          "value": "Bold",
-          "type": "fontWeights"
-        }
-      },
-      "roboto": {
-        "thin": {
-          "value": "ExtraLight",
-          "type": "fontWeights"
-        },
-        "light": {
-          "value": "Light",
-          "type": "fontWeights"
-        },
-        "regular": {
-          "value": "Regular",
-          "type": "fontWeights"
-        },
-        "semibold": {
-          "value": "SemiBold",
-          "type": "fontWeights"
-        },
-        "bold": {
-          "value": "Bold",
-          "type": "fontWeights"
-        }
-      }
-    },
-    "fonticon": {
-      "100": {
+    "sfpro": {
+      "thin": {
         "value": "Thin",
         "type": "fontWeights"
       },
-      "200": {
+      "light": {
         "value": "Light",
         "type": "fontWeights"
       },
-      "400": {
+      "regular": {
         "value": "Regular",
         "type": "fontWeights"
       },
-      "700": {
+      "semibold": {
+        "value": "Semibold",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    },
+    "roboto": {
+      "thin": {
+        "value": "ExtraLight",
+        "type": "fontWeights"
+      },
+      "light": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "semibold": {
+        "value": "SemiBold",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    },
+    "fontawesome": {
+      "thin": {
+        "value": "Thin",
+        "type": "fontWeights"
+      },
+      "light": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "solid": {
         "value": "Solid",
         "type": "fontWeights"
       }
