@@ -228,19 +228,23 @@
           "contrast": {
             "xhigh": {
               "value": "{color.accent.130}",
-              "type": "color"
+              "type": "color",
+              "description": "High contast background; State - Pressed"
             },
             "high": {
               "value": "{color.accent.120}",
-              "type": "color"
+              "type": "color",
+              "description": "High contast background; State - Hover"
             },
             "medium": {
               "value": "{color.accent.110}",
-              "type": "color"
+              "type": "color",
+              "description": "Medium contast background; State - Default"
             },
             "low": {
               "value": "{color.accent.100}",
-              "type": "color"
+              "type": "color",
+              "description": "Medium contast background; State - Hover variant"
             },
             "xLow": {
               "value": "{color.accent.90}",
