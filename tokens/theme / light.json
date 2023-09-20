@@ -163,7 +163,33 @@
       },
       "Invertible": {
         "neutral": {
-          "onSurface": {
+          "contrast": {
+            "xxhigh": {
+              "value": "{color.neutral.120}",
+              "type": "color"
+            },
+            "xhigh": {
+              "value": "{color.neutral.150}",
+              "type": "color"
+            },
+            "high": {
+              "value": "{color.neutral.160}",
+              "type": "color"
+            },
+            "medium": {
+              "value": "{color.neutral.170}",
+              "type": "color"
+            },
+            "low": {
+              "value": "{color.neutral.180}",
+              "type": "color"
+            },
+            "xLow": {
+              "value": "{color.neutral.190}",
+              "type": "color"
+            }
+          },
+          "mute": {
             "xxhigh": {
               "value": "{color.neutral.70}",
               "type": "color"
@@ -186,40 +212,6 @@
             },
             "xLow": {
               "value": "{color.neutral.20}",
-              "type": "color"
-            },
-            "xxLow": {
-              "value": "{color.neutral.10}",
-              "type": "color"
-            }
-          },
-          "offSurface": {
-            "xxhigh": {
-              "value": "{color.neutral.140}",
-              "type": "color"
-            },
-            "xhigh": {
-              "value": "{color.neutral.150}",
-              "type": "color"
-            },
-            "high": {
-              "value": "{color.neutral.160}",
-              "type": "color"
-            },
-            "medium": {
-              "value": "{color.neutral.170}",
-              "type": "color"
-            },
-            "low": {
-              "value": "{color.neutral.180}",
-              "type": "color"
-            },
-            "xLow": {
-              "value": "{color.neutral.190}",
-              "type": "color"
-            },
-            "xxLow": {
-              "value": "{color.neutral.200}",
               "type": "color"
             }
           }
@@ -1352,6 +1344,100 @@
               "value": "{color.red.90}",
               "type": "color"
             }
+          }
+        }
+      }
+    },
+    "surface": {
+      "invetred": {
+        "xxhigh": {
+          "value": "{color.body.70}",
+          "type": "color"
+        },
+        "xhigh": {
+          "value": "{color.body.60}",
+          "type": "color"
+        },
+        "high": {
+          "value": "{color.body.50}",
+          "type": "color"
+        },
+        "medium": {
+          "value": "{color.body.40}",
+          "type": "color"
+        },
+        "low": {
+          "value": "{color.body.30}",
+          "type": "color"
+        },
+        "xLow": {
+          "value": "{color.body.20}",
+          "type": "color"
+        },
+        "xxLow": {
+          "value": "{color.body.10}",
+          "type": "color"
+        }
+      },
+      "notinvetred": {
+        "mute": {
+          "xxhigh": {
+            "value": "{color.body.70}",
+            "type": "color"
+          },
+          "xhigh": {
+            "value": "{color.body.60}",
+            "type": "color"
+          },
+          "high": {
+            "value": "{color.body.50}",
+            "type": "color"
+          },
+          "medium": {
+            "value": "{color.body.40}",
+            "type": "color"
+          },
+          "low": {
+            "value": "{color.body.30}",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "{color.body.20}",
+            "type": "color"
+          },
+          "xxLow": {
+            "value": "{color.body.10}",
+            "type": "color"
+          }
+        },
+        "contrast": {
+          "xxhigh": {
+            "value": "{color.body.140}",
+            "type": "color"
+          },
+          "xhigh": {
+            "value": "{color.body.150}",
+            "type": "color"
+          },
+          "high": {
+            "value": "{color.body.160}",
+            "type": "color"
+          },
+          "medium": {
+            "value": "{color.body.170}",
+            "type": "color"
+          },
+          "low": {
+            "value": "{color.body.180}",
+            "type": "color"
+          },
+          "xLow": {
+            "value": "{color.body.190}",
+            "type": "color"
+          },
+          "xxLow": {
+            "value": "{color.body.200}",
+            "type": "color"
           }
         }
       }
