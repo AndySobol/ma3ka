@@ -29,6 +29,10 @@
         "value": "{color.neutral.70}",
         "type": "color"
       },
+      "80": {
+        "value": "{color.neutral.80}",
+        "type": "color"
+      },
       "140": {
         "value": "{color.neutral.140}",
         "type": "color"

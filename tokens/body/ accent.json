@@ -29,6 +29,10 @@
         "value": "{color.accent.70}",
         "type": "color"
       },
+      "80": {
+        "value": "{color.accent.80}",
+        "type": "color"
+      },
       "140": {
         "value": "{color.accent.140}",
         "type": "color"
