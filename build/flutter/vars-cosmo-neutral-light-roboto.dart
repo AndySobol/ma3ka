@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 20 Sep 2023 16:22:16 GMT
+// Generated on Wed, 20 Sep 2023 21:01:45 GMT
 
 
 
@@ -268,20 +268,18 @@ class  {
     static const colorFillInvertibleCriticalMuteMedium = Color(0xFFFCF1F0);
     static const colorFillInvertibleCriticalMuteXLow = Color(0xFFFFFFFF);
     static const colorFillInvertibleCriticalMuteXhigh = Color(0xFFF9E3E1);
-    static const colorFillInvertibleNeutralOffSurfaceHigh = Color(0xFF2A2A2A);
-    static const colorFillInvertibleNeutralOffSurfaceLow = Color(0xFF1B1B1B);
-    static const colorFillInvertibleNeutralOffSurfaceMedium = Color(0xFF1F1F1F);
-    static const colorFillInvertibleNeutralOffSurfaceXLow = Color(0xFF131313);
-    static const colorFillInvertibleNeutralOffSurfaceXhigh = Color(0xFF353535);
-    static const colorFillInvertibleNeutralOffSurfaceXxLow = Color(0xFF0E0E0E);
-    static const colorFillInvertibleNeutralOffSurfaceXxhigh = Color(0xFF393939);
-    static const colorFillInvertibleNeutralOnSurfaceHigh = Color(0xFFE8E8E8);
-    static const colorFillInvertibleNeutralOnSurfaceLow = Color(0xFFF3F3F3);
-    static const colorFillInvertibleNeutralOnSurfaceMedium = Color(0xFFEEEEEE);
-    static const colorFillInvertibleNeutralOnSurfaceXLow = Color(0xFFF9F9F9);
-    static const colorFillInvertibleNeutralOnSurfaceXhigh = Color(0xFFE2E2E2);
-    static const colorFillInvertibleNeutralOnSurfaceXxLow = Color(0xFFFFFFFF);
-    static const colorFillInvertibleNeutralOnSurfaceXxhigh = Color(0xFFDADADA);
+    static const colorFillInvertibleNeutralContrastHigh = Color(0xFF2A2A2A);
+    static const colorFillInvertibleNeutralContrastLow = Color(0xFF1B1B1B);
+    static const colorFillInvertibleNeutralContrastMedium = Color(0xFF1F1F1F);
+    static const colorFillInvertibleNeutralContrastXLow = Color(0xFF131313);
+    static const colorFillInvertibleNeutralContrastXhigh = Color(0xFF353535);
+    static const colorFillInvertibleNeutralContrastXxhigh = Color(0xFF727272);
+    static const colorFillInvertibleNeutralMuteHigh = Color(0xFFE8E8E8);
+    static const colorFillInvertibleNeutralMuteLow = Color(0xFFF3F3F3);
+    static const colorFillInvertibleNeutralMuteMedium = Color(0xFFEEEEEE);
+    static const colorFillInvertibleNeutralMuteXLow = Color(0xFFF9F9F9);
+    static const colorFillInvertibleNeutralMuteXhigh = Color(0xFFE2E2E2);
+    static const colorFillInvertibleNeutralMuteXxhigh = Color(0xFFDADADA);
     static const colorFillInvertiblePrimaryContrastHigh = Color(0xFF536BCD);
     static const colorFillInvertiblePrimaryContrastLow = Color(0xFF8BA1FC);
     static const colorFillInvertiblePrimaryContrastMedium = Color(0xFF627EF1);
@@ -653,6 +651,27 @@ class  {
     static const colorStrokeNotInvertibleNeutralLightXhigh = Color(0xFFE2E2E2);
     static const colorStrokeNotInvertibleNeutralLightXxLow = Color(0xFFFFFFFF);
     static const colorStrokeNotInvertibleNeutralLightXxhigh = Color(0xFFDADADA);
+    static const colorSurfaceInvetredHigh = Color(0xFFE8E8E8);
+    static const colorSurfaceInvetredLow = Color(0xFFF3F3F3);
+    static const colorSurfaceInvetredMedium = Color(0xFFEEEEEE);
+    static const colorSurfaceInvetredXLow = Color(0xFFF9F9F9);
+    static const colorSurfaceInvetredXhigh = Color(0xFFE2E2E2);
+    static const colorSurfaceInvetredXxLow = Color(0xFFFFFFFF);
+    static const colorSurfaceInvetredXxhigh = Color(0xFFDADADA);
+    static const colorSurfaceNotinvetredContrastHigh = Color(0xFF2A2A2A);
+    static const colorSurfaceNotinvetredContrastLow = Color(0xFF1B1B1B);
+    static const colorSurfaceNotinvetredContrastMedium = Color(0xFF1F1F1F);
+    static const colorSurfaceNotinvetredContrastXLow = Color(0xFF131313);
+    static const colorSurfaceNotinvetredContrastXhigh = Color(0xFF353535);
+    static const colorSurfaceNotinvetredContrastXxLow = Color(0xFF0E0E0E);
+    static const colorSurfaceNotinvetredContrastXxhigh = Color(0xFF393939);
+    static const colorSurfaceNotinvetredMuteHigh = Color(0xFFE8E8E8);
+    static const colorSurfaceNotinvetredMuteLow = Color(0xFFF3F3F3);
+    static const colorSurfaceNotinvetredMuteMedium = Color(0xFFEEEEEE);
+    static const colorSurfaceNotinvetredMuteXLow = Color(0xFFF9F9F9);
+    static const colorSurfaceNotinvetredMuteXhigh = Color(0xFFE2E2E2);
+    static const colorSurfaceNotinvetredMuteXxLow = Color(0xFFFFFFFF);
+    static const colorSurfaceNotinvetredMuteXxhigh = Color(0xFFDADADA);
     static const colorTextInvertibleCautionContrastHigh = Color(0xFFFBEBDD);
     static const colorTextInvertibleCautionContrastLow = Color(0xFFFEF8F4);
     static const colorTextInvertibleCautionContrastMedium = Color(0xFFFCF2E8);

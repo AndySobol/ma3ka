@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 20 Sep 2023 16:22:25 GMT
+// Generated on Wed, 20 Sep 2023 21:01:52 GMT
 
 
 
@@ -74,25 +74,25 @@ class  {
     static const borderWidth5 = 5;
     static const borderWidth6 = 6;
     static const colorAccent10 = Color(0xFFFFFFFF);
-    static const colorAccent100 = Color(0xFFE08DB0);
-    static const colorAccent110 = Color(0xFFD35F8F);
-    static const colorAccent120 = Color(0xFFC04579);
-    static const colorAccent130 = Color(0xFF8F345A);
-    static const colorAccent140 = Color(0xFF61233D);
-    static const colorAccent150 = Color(0xFF5A2039);
-    static const colorAccent160 = Color(0xFF481A2D);
-    static const colorAccent170 = Color(0xFF371422);
-    static const colorAccent180 = Color(0xFF30111E);
-    static const colorAccent190 = Color(0xFF220C15);
-    static const colorAccent20 = Color(0xFFFDF8FA);
-    static const colorAccent200 = Color(0xFF190910);
-    static const colorAccent30 = Color(0xFFFBF1F5);
-    static const colorAccent40 = Color(0xFFF9EAF0);
-    static const colorAccent50 = Color(0xFFF7E3EB);
-    static const colorAccent60 = Color(0xFFF5DCE7);
-    static const colorAccent70 = Color(0xFFF2D1DF);
-    static const colorAccent80 = Color(0xFFEFC7D8);
-    static const colorAccent90 = Color(0xFFE8AAC4);
+    static const colorAccent100 = Color(0xFF8BA1FC);
+    static const colorAccent110 = Color(0xFF627EF1);
+    static const colorAccent120 = Color(0xFF536BCD);
+    static const colorAccent130 = Color(0xFF3E5099);
+    static const colorAccent140 = Color(0xFF2A3667);
+    static const colorAccent150 = Color(0xFF27325F);
+    static const colorAccent160 = Color(0xFF1F284C);
+    static const colorAccent170 = Color(0xFF171E39);
+    static const colorAccent180 = Color(0xFF141A32);
+    static const colorAccent190 = Color(0xFF0E1223);
+    static const colorAccent20 = Color(0xFFF8F9FF);
+    static const colorAccent200 = Color(0xFF0B0D1A);
+    static const colorAccent30 = Color(0xFFF0F3FF);
+    static const colorAccent40 = Color(0xFFE9EDFE);
+    static const colorAccent50 = Color(0xFFE2E7FE);
+    static const colorAccent60 = Color(0xFFDBE2FE);
+    static const colorAccent70 = Color(0xFFD0D9FE);
+    static const colorAccent80 = Color(0xFFC5D0FD);
+    static const colorAccent90 = Color(0xFFA8B9FD);
     static const colorAlphaBlack0 = Color(0xFF000000);
     static const colorAlphaBlack002 = Color(0xFF000000);
     static const colorAlphaBlack004 = Color(0xFF000000);
@@ -155,19 +155,19 @@ class  {
     static const colorBlue80 = Color(0xFFBBD3F8);
     static const colorBlue90 = Color(0xFF99BDF4);
     static const colorBody10 = Color(0xFFFFFFFF);
-    static const colorBody140 = Color(0xFF61233D);
-    static const colorBody150 = Color(0xFF5A2039);
-    static const colorBody160 = Color(0xFF481A2D);
-    static const colorBody170 = Color(0xFF371422);
-    static const colorBody180 = Color(0xFF30111E);
-    static const colorBody190 = Color(0xFF220C15);
-    static const colorBody20 = Color(0xFFFDF8FA);
-    static const colorBody200 = Color(0xFF190910);
-    static const colorBody30 = Color(0xFFFBF1F5);
-    static const colorBody40 = Color(0xFFF9EAF0);
-    static const colorBody50 = Color(0xFFF7E3EB);
-    static const colorBody60 = Color(0xFFF5DCE7);
-    static const colorBody70 = Color(0xFFF2D1DF);
+    static const colorBody140 = Color(0xFF393939);
+    static const colorBody150 = Color(0xFF353535);
+    static const colorBody160 = Color(0xFF2A2A2A);
+    static const colorBody170 = Color(0xFF1F1F1F);
+    static const colorBody180 = Color(0xFF1B1B1B);
+    static const colorBody190 = Color(0xFF131313);
+    static const colorBody20 = Color(0xFFF9F9F9);
+    static const colorBody200 = Color(0xFF0E0E0E);
+    static const colorBody30 = Color(0xFFF3F3F3);
+    static const colorBody40 = Color(0xFFEEEEEE);
+    static const colorBody50 = Color(0xFFE8E8E8);
+    static const colorBody60 = Color(0xFFE2E2E2);
+    static const colorBody70 = Color(0xFFDADADA);
     static const colorCelery10 = Color(0xFFFFFFFF);
     static const colorCelery100 = Color(0xFF5FBA4F);
     static const colorCelery110 = Color(0xFF4B973E);
