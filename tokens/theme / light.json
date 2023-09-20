@@ -99,63 +99,31 @@
     "fill": {
       "notInvertible": {
         "neutral": {
-          "light": {
-            "xxhigh": {
-              "value": "{color.neutral.70}",
-              "type": "color"
-            },
+          "contrast": {
             "xhigh": {
-              "value": "{color.neutral.60}",
-              "type": "color"
-            },
-            "high": {
-              "value": "{color.neutral.50}",
-              "type": "color"
-            },
-            "medium": {
-              "value": "{color.neutral.40}",
-              "type": "color"
-            },
-            "low": {
-              "value": "{color.neutral.30}",
-              "type": "color"
-            },
-            "xLow": {
-              "value": "{color.neutral.20}",
-              "type": "color"
-            },
-            "xxLow": {
-              "value": "{color.neutral.10}",
-              "type": "color"
-            }
-          },
-          "black": {
-            "xxhigh": {
-              "value": "{color.neutral.140}",
-              "type": "color"
-            },
-            "xhigh": {
-              "value": "{color.neutral.150}",
-              "type": "color"
-            },
-            "high": {
-              "value": "{color.neutral.160}",
-              "type": "color"
-            },
-            "medium": {
-              "value": "{color.neutral.170}",
-              "type": "color"
-            },
-            "low": {
-              "value": "{color.neutral.180}",
-              "type": "color"
-            },
-            "xLow": {
               "value": "{color.neutral.190}",
               "type": "color"
             },
-            "xxLow": {
-              "value": "{color.neutral.200}",
+            "high": {
+              "value": "{color.neutral.170}",
+              "type": "color"
+            },
+            "medium": {
+              "value": "{color.neutral.150}",
+              "type": "color"
+            }
+          },
+          "mute": {
+            "xhigh": {
+              "value": "{color.neutral.20}",
+              "type": "color"
+            },
+            "high": {
+              "value": "{color.neutral.40}",
+              "type": "color"
+            },
+            "medium": {
+              "value": "{color.neutral.80}",
               "type": "color"
             }
           }
@@ -164,54 +132,30 @@
       "Invertible": {
         "neutral": {
           "contrast": {
-            "xxhigh": {
-              "value": "{color.neutral.120}",
-              "type": "color"
-            },
             "xhigh": {
-              "value": "{color.neutral.150}",
+              "value": "{color.neutral.190}",
               "type": "color"
             },
             "high": {
-              "value": "{color.neutral.160}",
-              "type": "color"
-            },
-            "medium": {
               "value": "{color.neutral.170}",
               "type": "color"
             },
-            "low": {
-              "value": "{color.neutral.180}",
-              "type": "color"
-            },
-            "xLow": {
-              "value": "{color.neutral.190}",
+            "medium": {
+              "value": "{color.neutral.150}",
               "type": "color"
             }
           },
           "mute": {
-            "xxhigh": {
-              "value": "{color.neutral.70}",
-              "type": "color"
-            },
             "xhigh": {
-              "value": "{color.neutral.60}",
+              "value": "{color.neutral.20}",
               "type": "color"
             },
             "high": {
-              "value": "{color.neutral.50}",
-              "type": "color"
-            },
-            "medium": {
               "value": "{color.neutral.40}",
               "type": "color"
             },
-            "low": {
-              "value": "{color.neutral.30}",
-              "type": "color"
-            },
-            "xLow": {
-              "value": "{color.neutral.20}",
+            "medium": {
+              "value": "{color.neutral.80}",
               "type": "color"
             }
           }
@@ -473,7 +417,7 @@
       },
       "Invertible": {
         "neutral": {
-          "onSurface": {
+          "contrast": {
             "xxhigh": {
               "value": "{color.neutral.70}",
               "type": "color"
@@ -503,7 +447,7 @@
               "type": "color"
             }
           },
-          "offSurface": {
+          "mute": {
             "xxhigh": {
               "value": "{color.neutral.140}",
               "type": "color"
@@ -536,184 +480,120 @@
         },
         "primary": {
           "contrast": {
-            "xhigh": {
-              "value": "{color.accent.50}",
-              "type": "color"
-            },
             "high": {
-              "value": "{color.accent.40}",
-              "type": "color"
-            },
-            "medium": {
-              "value": "{color.accent.30}",
-              "type": "color"
-            },
-            "low": {
               "value": "{color.accent.20}",
               "type": "color"
             },
-            "xLow": {
-              "value": "{color.accent.10}",
+            "medium": {
+              "value": "{color.accent.50}",
+              "type": "color"
+            },
+            "low": {
+              "value": "{color.accent.90}",
               "type": "color"
             }
           },
           "mute": {
-            "xhigh": {
-              "value": "{color.accent.130}",
-              "type": "color"
-            },
             "high": {
-              "value": "{color.accent.120}",
-              "type": "color"
-            },
-            "medium": {
               "value": "{color.accent.110}",
               "type": "color"
             },
-            "low": {
+            "medium": {
               "value": "{color.accent.100}",
               "type": "color"
             },
-            "xLow": {
-              "value": "{color.accent.90}",
+            "low": {
+              "value": "{color.accent.70}",
               "type": "color"
             }
           }
         },
         "success": {
           "contrast": {
-            "xhigh": {
-              "value": "{color.green.50}",
-              "type": "color"
-            },
             "high": {
-              "value": "{color.green.40}",
-              "type": "color"
-            },
-            "medium": {
-              "value": "{color.green.30}",
-              "type": "color"
-            },
-            "low": {
               "value": "{color.green.20}",
               "type": "color"
             },
-            "xLow": {
-              "value": "{color.green.10}",
+            "medium": {
+              "value": "{color.green.50}",
+              "type": "color"
+            },
+            "low": {
+              "value": "{color.green.90}",
               "type": "color"
             }
           },
           "mute": {
-            "xhigh": {
-              "value": "{color.green.130}",
-              "type": "color"
-            },
             "high": {
-              "value": "{color.green.120}",
-              "type": "color"
-            },
-            "medium": {
               "value": "{color.green.110}",
               "type": "color"
             },
-            "low": {
+            "medium": {
               "value": "{color.green.100}",
               "type": "color"
             },
-            "xLow": {
-              "value": "{color.green.90}",
+            "low": {
+              "value": "{color.green.70}",
               "type": "color"
             }
           }
         },
         "caution": {
           "contrast": {
-            "xhigh": {
-              "value": "{color.orange.50}",
-              "type": "color"
-            },
             "high": {
-              "value": "{color.orange.40}",
-              "type": "color"
-            },
-            "medium": {
-              "value": "{color.orange.30}",
-              "type": "color"
-            },
-            "low": {
               "value": "{color.orange.20}",
               "type": "color"
             },
-            "xLow": {
-              "value": "{color.orange.10}",
+            "medium": {
+              "value": "{color.orange.50}",
+              "type": "color"
+            },
+            "low": {
+              "value": "{color.orange.90}",
               "type": "color"
             }
           },
           "mute": {
-            "xhigh": {
-              "value": "{color.orange.130}",
-              "type": "color"
-            },
             "high": {
-              "value": "{color.orange.120}",
-              "type": "color"
-            },
-            "medium": {
               "value": "{color.orange.110}",
               "type": "color"
             },
-            "low": {
+            "medium": {
               "value": "{color.orange.100}",
               "type": "color"
             },
-            "xLow": {
-              "value": "{color.orange.90}",
+            "low": {
+              "value": "{color.orange.70}",
               "type": "color"
             }
           }
         },
         "critical": {
           "contrast": {
-            "xhigh": {
-              "value": "{color.red.50}",
-              "type": "color"
-            },
             "high": {
-              "value": "{color.red.40}",
-              "type": "color"
-            },
-            "medium": {
-              "value": "{color.red.30}",
-              "type": "color"
-            },
-            "low": {
               "value": "{color.red.20}",
               "type": "color"
             },
-            "xLow": {
-              "value": "{color.red.10}",
+            "medium": {
+              "value": "{color.red.50}",
+              "type": "color"
+            },
+            "low": {
+              "value": "{color.red.90}",
               "type": "color"
             }
           },
           "mute": {
-            "xhigh": {
-              "value": "{color.red.130}",
-              "type": "color"
-            },
             "high": {
-              "value": "{color.red.120}",
-              "type": "color"
-            },
-            "medium": {
               "value": "{color.red.110}",
               "type": "color"
             },
-            "low": {
+            "medium": {
               "value": "{color.red.100}",
               "type": "color"
             },
-            "xLow": {
-              "value": "{color.red.90}",
+            "low": {
+              "value": "{color.red.70}",
               "type": "color"
             }
           }
