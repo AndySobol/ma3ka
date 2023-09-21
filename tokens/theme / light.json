@@ -1881,6 +1881,25 @@
               "type": "color"
             }
           }
+        },
+        "disable": {
+          "noopacity": {
+            "value": "{color.body.80}",
+            "type": "color"
+          },
+          "medium": {
+            "value": "{color.body.190}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{opacities.038}",
+                  "space": "lch"
+                }
+              }
+            }
+          }
         }
       }
     },
