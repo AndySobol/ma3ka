@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 20 Sep 2023 23:14:57 GMT
+// Generated on Thu, 21 Sep 2023 09:11:34 GMT
 
 
 
@@ -395,6 +395,8 @@ class  {
     static const colorIconInvertibleCriticalMuteHigh = Color(0xFFDD5E4E);
     static const colorIconInvertibleCriticalMuteLow = Color(0xFFF5D2CE);
     static const colorIconInvertibleCriticalMuteMedium = Color(0xFFE78E83);
+    static const colorIconInvertibleDisableMedium = Color(0xFF131313);
+    static const colorIconInvertibleDisableNoopacity = Color(0xFFD1D1D1);
     static const colorIconInvertibleNeutralContrastHigh = Color(0xFFF9F9F9);
     static const colorIconInvertibleNeutralContrastLow = Color(0xFF393939);
     static const colorIconInvertibleNeutralContrastMedium = Color(0xFFE2E2E2);
