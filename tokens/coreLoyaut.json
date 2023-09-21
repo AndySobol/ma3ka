@@ -811,10 +811,6 @@
       "value": "0",
       "type": "other"
     },
-    "1": {
-      "value": "1",
-      "type": "other"
-    },
     "4": {
       "value": "4",
       "type": "other"
@@ -845,6 +841,10 @@
     },
     "80": {
       "value": "80",
+      "type": "other"
+    },
+    "96": {
+      "value": "96",
       "type": "other"
     },
     "124": {
