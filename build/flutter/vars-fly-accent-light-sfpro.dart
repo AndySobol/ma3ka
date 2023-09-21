@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 21 Sep 2023 09:19:47 GMT
+// Generated on Thu, 21 Sep 2023 11:02:18 GMT
 
 
 
@@ -28,7 +28,6 @@ class  {
     static const axis4 = 4;
     static const axis8 = 8;
     static const blurs0 = 0;
-    static const blurs1 = 1;
     static const blurs124 = 124;
     static const blurs16 = 16;
     static const blurs24 = 24;
@@ -38,6 +37,7 @@ class  {
     static const blurs50 = 50;
     static const blurs8 = 8;
     static const blurs80 = 80;
+    static const blurs96 = 96;
     static const borderRadius0 = 0;
     static const borderRadius1 = 1;
     static const borderRadius10 = 10;
