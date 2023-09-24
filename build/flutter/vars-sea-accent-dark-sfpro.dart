@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 21 Sep 2023 11:02:22 GMT
+// Generated on Sun, 24 Sep 2023 16:11:37 GMT
 
 
 
@@ -287,6 +287,16 @@ class  {
     static const colorFillInvertiblePrimaryMuteMedium = Color(0xFFF0F3FF);
     static const colorFillInvertiblePrimaryMuteXLow = Color(0xFFFFFFFF);
     static const colorFillInvertiblePrimaryMuteXhigh = Color(0xFFE2E7FE);
+    static const colorFillInvertibleSecondaryContrastHigh = Color(0xFF8A51E2);
+    static const colorFillInvertibleSecondaryContrastLow = Color(0xFFB896ED);
+    static const colorFillInvertibleSecondaryContrastMedium = Color(0xFF9D6DE6);
+    static const colorFillInvertibleSecondaryContrastXLow = Color(0xFFCAB0F2);
+    static const colorFillInvertibleSecondaryContrastXhigh = Color(0xFF6936B8);
+    static const colorFillInvertibleSecondaryMuteHigh = Color(0xFFF2EBFC);
+    static const colorFillInvertibleSecondaryMuteLow = Color(0xFFFBF8FE);
+    static const colorFillInvertibleSecondaryMuteMedium = Color(0xFFF6F2FD);
+    static const colorFillInvertibleSecondaryMuteXLow = Color(0xFFFFFFFF);
+    static const colorFillInvertibleSecondaryMuteXhigh = Color(0xFFEDE4FB);
     static const colorFillInvertibleSuccessContrastHigh = Color(0xFF387F58);
     static const colorFillInvertibleSuccessContrastLow = Color(0xFF7CB193);
     static const colorFillInvertibleSuccessContrastMedium = Color(0xFF4B956B);
@@ -407,6 +417,12 @@ class  {
     static const colorIconInvertiblePrimaryMuteHigh = Color(0xFF627EF1);
     static const colorIconInvertiblePrimaryMuteLow = Color(0xFFD0D9FE);
     static const colorIconInvertiblePrimaryMuteMedium = Color(0xFF8BA1FC);
+    static const colorIconInvertibleSecondaryContrastHigh = Color(0xFFFBF8FE);
+    static const colorIconInvertibleSecondaryContrastLow = Color(0xFFCAB0F2);
+    static const colorIconInvertibleSecondaryContrastMedium = Color(0xFFEDE4FB);
+    static const colorIconInvertibleSecondaryMuteHigh = Color(0xFF9D6DE6);
+    static const colorIconInvertibleSecondaryMuteLow = Color(0xFFE2D4F8);
+    static const colorIconInvertibleSecondaryMuteMedium = Color(0xFFB896ED);
     static const colorIconInvertibleSuccessContrastHigh = Color(0xFFF7FAF8);
     static const colorIconInvertibleSuccessContrastLow = Color(0xFF9CC5AE);
     static const colorIconInvertibleSuccessContrastMedium = Color(0xFFDEEBE4);
@@ -695,6 +711,12 @@ class  {
     static const colorTextInvertiblePrimaryMuteHigh = Color(0xFF627EF1);
     static const colorTextInvertiblePrimaryMuteLow = Color(0xFFD0D9FE);
     static const colorTextInvertiblePrimaryMuteMedium = Color(0xFF8BA1FC);
+    static const colorTextInvertibleSecondaryContrastHigh = Color(0xFFFBF8FE);
+    static const colorTextInvertibleSecondaryContrastLow = Color(0xFFCAB0F2);
+    static const colorTextInvertibleSecondaryContrastMedium = Color(0xFFEDE4FB);
+    static const colorTextInvertibleSecondaryMuteHigh = Color(0xFF9D6DE6);
+    static const colorTextInvertibleSecondaryMuteLow = Color(0xFFE2D4F8);
+    static const colorTextInvertibleSecondaryMuteMedium = Color(0xFFB896ED);
     static const colorTextInvertibleSuccessContrastHigh = Color(0xFFF7FAF8);
     static const colorTextInvertibleSuccessContrastLow = Color(0xFF9CC5AE);
     static const colorTextInvertibleSuccessContrastMedium = Color(0xFFDEEBE4);
