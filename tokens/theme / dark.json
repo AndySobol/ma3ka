@@ -1352,6 +1352,52 @@
             }
           }
         },
+        "secondary": {
+          "contrast": {
+            "xhigh": {
+              "value": "{color.purple.130}",
+              "type": "color"
+            },
+            "high": {
+              "value": "{color.purple.120}",
+              "type": "color"
+            },
+            "medium": {
+              "value": "{color.purple.110}",
+              "type": "color"
+            },
+            "low": {
+              "value": "{color.purple.100}",
+              "type": "color"
+            },
+            "xLow": {
+              "value": "{color.purple.90}",
+              "type": "color"
+            }
+          },
+          "mute": {
+            "xhigh": {
+              "value": "{color.purple.50}",
+              "type": "color"
+            },
+            "high": {
+              "value": "{color.purple.40}",
+              "type": "color"
+            },
+            "medium": {
+              "value": "{color.purple.30}",
+              "type": "color"
+            },
+            "low": {
+              "value": "{color.purple.20}",
+              "type": "color"
+            },
+            "xLow": {
+              "value": "{color.purple.10}",
+              "type": "color"
+            }
+          }
+        },
         "success": {
           "contrast": {
             "xhigh": {
@@ -1605,6 +1651,36 @@
             }
           }
         },
+        "secondary": {
+          "contrast": {
+            "high": {
+              "value": "{color.purple.20}",
+              "type": "color"
+            },
+            "medium": {
+              "value": "{color.purple.50}",
+              "type": "color"
+            },
+            "low": {
+              "value": "{color.purple.90}",
+              "type": "color"
+            }
+          },
+          "mute": {
+            "high": {
+              "value": "{color.purple.110}",
+              "type": "color"
+            },
+            "medium": {
+              "value": "{color.purple.100}",
+              "type": "color"
+            },
+            "low": {
+              "value": "{color.purple.70}",
+              "type": "color"
+            }
+          }
+        },
         "success": {
           "contrast": {
             "high": {
@@ -1806,6 +1882,36 @@
             },
             "low": {
               "value": "{color.accent.70}",
+              "type": "color"
+            }
+          }
+        },
+        "secondary": {
+          "contrast": {
+            "high": {
+              "value": "{color.purple.20}",
+              "type": "color"
+            },
+            "medium": {
+              "value": "{color.purple.50}",
+              "type": "color"
+            },
+            "low": {
+              "value": "{color.purple.90}",
+              "type": "color"
+            }
+          },
+          "mute": {
+            "high": {
+              "value": "{color.purple.110}",
+              "type": "color"
+            },
+            "medium": {
+              "value": "{color.purple.100}",
+              "type": "color"
+            },
+            "low": {
+              "value": "{color.purple.70}",
               "type": "color"
             }
           }
