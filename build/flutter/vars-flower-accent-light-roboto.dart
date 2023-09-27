@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 24 Sep 2023 16:11:35 GMT
+// Generated on Wed, 27 Sep 2023 14:42:21 GMT
 
 
 
@@ -752,9 +752,7 @@ class  {
     static const colorYellow70 = Color(0xFFF3DB4C);
     static const colorYellow80 = Color(0xFFEAD246);
     static const colorYellow90 = Color(0xFFD1BC3F);
-    static const fontFamiliesInter = Inter;
     static const fontFamiliesRoboto = Roboto;
-    static const fontFamiliesSegoe = Segoe UI Variable;
     static const fontFamiliesSfpro = SF Pro;
     static const fontSizes10 = 10;
     static const fontSizes112 = 112;
