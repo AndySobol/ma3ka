@@ -6,9 +6,7 @@
     "selectedTokenSets": {
       "theme/light": "enabled",
       "core": "source",
-      "layout": "enabled",
-      "_native/light": "disabled",
-      "_native/dark": "disabled"
+      "layout": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:376:12475",
     "$figmaModeId": "376:17",
@@ -343,9 +341,7 @@
     "selectedTokenSets": {
       "theme/dark": "enabled",
       "core": "source",
-      "layout": "enabled",
-      "_native/light": "disabled",
-      "_native/dark": "disabled"
+      "layout": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:376:12475",
     "$figmaModeId": "376:18",
