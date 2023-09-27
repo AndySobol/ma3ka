@@ -1,19 +1,11 @@
 {
   "fontFamilies": {
-    "segoe": {
-      "value": "Segoe UI Variable",
-      "type": "fontFamilies"
-    },
     "roboto": {
       "value": "Roboto",
       "type": "fontFamilies"
     },
     "sfpro": {
       "value": "SF Pro",
-      "type": "fontFamilies"
-    },
-    "inter": {
-      "value": "Inter",
       "type": "fontFamilies"
     }
   },
