@@ -22,11 +22,11 @@
         },
         "static": {
           "faceID": {
-            "value": "$color.black",
+            "value": "#000000",
             "type": "color"
           },
           "homeBar": {
-            "value": "$color.white",
+            "value": "#FFFFFF",
             "type": "color"
           }
         },

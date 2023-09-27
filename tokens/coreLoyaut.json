@@ -646,18 +646,6 @@
     "320": {
       "value": "320",
       "type": "spacing"
-    },
-    "-3": {
-      "value": "-3",
-      "type": "spacing"
-    },
-    "-5": {
-      "value": "-5",
-      "type": "spacing"
-    },
-    "-8": {
-      "value": "-8",
-      "type": "spacing"
     }
   },
   "opacities": {
