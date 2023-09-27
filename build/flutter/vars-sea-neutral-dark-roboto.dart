@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 27 Sep 2023 16:50:52 GMT
+// Generated on Wed, 27 Sep 2023 19:23:42 GMT
 
 
 
@@ -495,7 +495,7 @@ class  {
     static const colorNativeIosSafariOnInputLow = Color(0xFFEBEBF5);
     static const colorNativeIosSafariOnInputXLow = Color(0xFFEBEBF5);
     static const colorNativeIosStaticFaceId = Color(0xFF000000);
-    static const colorNativeIosStaticHomeBar = Color(0xFF000000);
+    static const colorNativeIosStaticHomeBar = Color(0xFFFFFFFF);
     static const colorNeutral10 = Color(0xFFFFFFFF);
     static const colorNeutral100 = Color(0xFFA6A6A6);
     static const colorNeutral110 = Color(0xFF868686);
@@ -953,7 +953,6 @@ class  {
     static const spacing240 = 240;
     static const spacing28 = 28;
     static const spacing3 = 3;
-    static const spacing3 = -3;
     static const spacing32 = 32;
     static const spacing320 = 320;
     static const spacing36 = 36;
@@ -962,7 +961,6 @@ class  {
     static const spacing44 = 44;
     static const spacing46 = 46;
     static const spacing48 = 48;
-    static const spacing5 = -5;
     static const spacing56 = 56;
     static const spacing6 = 6;
     static const spacing60 = 60;
@@ -971,7 +969,6 @@ class  {
     static const spacing68 = 68;
     static const spacing72 = 72;
     static const spacing8 = 8;
-    static const spacing8 = -8;
     static const spacing80 = 80;
     static const spacing88 = 88;
     static const spacing90 = 90;
