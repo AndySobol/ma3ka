@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 27 Sep 2023 16:36:42 GMT
+// Generated on Wed, 27 Sep 2023 16:49:34 GMT
 
 
 
@@ -496,8 +496,8 @@ class  {
     static const colorNativeIosSafariOnInput = Color(0xFF000000);
     static const colorNativeIosSafariOnInputLow = Color(0xFF3C3C43);
     static const colorNativeIosSafariOnInputXLow = Color(0xFF3C3C43);
-    static const colorNativeIosStaticFaceId = Color(0xFF000000);
-    static const colorNativeIosStaticHomeBar = Color(0xFF000000);
+    static const colorNativeIosStaticFaceId = Color(0xFF131313);
+    static const colorNativeIosStaticHomeBar = Color(0xFF131313);
     static const colorNeutral10 = Color(0xFFFFFFFF);
     static const colorNeutral100 = Color(0xFFA6A6A6);
     static const colorNeutral110 = Color(0xFF868686);
