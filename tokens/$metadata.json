@@ -9,10 +9,10 @@
     "accent/ sea",
     "body/ neutral",
     "body/ accent",
-    "theme / light",
-    "theme / dark",
-    "theme / wireframe",
-    "typography / sfpro",
-    "typography / roboto"
+    "theme/ light",
+    "theme/ dark",
+    "theme/ wireframe",
+    "typography/ sfpro",
+    "typography/ roboto"
   ]
 }
