@@ -3,16 +3,15 @@
     "corePalette",
     "coreLoyaut",
     "coreTypography",
-    "accent/ cosmo",
-    "accent/ fly",
-    "accent/ flower",
-    "accent/ sea",
-    "body/ neutral",
-    "body/ accent",
-    "theme/ light",
-    "theme/ dark",
-    "theme/ wireframe",
-    "typography/ sfpro",
-    "typography/ roboto"
+    "accent/cosmo",
+    "accent/fly",
+    "accent/flower",
+    "accent/sea",
+    "body/neutral",
+    "body/accent",
+    "theme/light",
+    "theme/dark",
+    "typography/sfpro",
+    "typography/roboto"
   ]
 }

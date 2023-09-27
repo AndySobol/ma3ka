@@ -5,7 +5,16 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "corePalette": "source",
-      "accent/ cosmo": "enabled"
+      "accent/cosmo": "enabled",
+      "accent/fly": "disabled",
+      "accent/flower": "disabled",
+      "accent/sea": "disabled",
+      "body/neutral": "disabled",
+      "body/accent": "disabled",
+      "theme/light": "disabled",
+      "theme/dark": "disabled",
+      "typography/sfpro": "disabled",
+      "typography/roboto": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:376:12438",
     "$figmaModeId": "376:11",
@@ -39,7 +48,16 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "corePalette": "source",
-      "accent/ fly": "enabled"
+      "accent/cosmo": "disabled",
+      "accent/fly": "enabled",
+      "accent/flower": "disabled",
+      "accent/sea": "disabled",
+      "body/neutral": "disabled",
+      "body/accent": "disabled",
+      "theme/light": "disabled",
+      "theme/dark": "disabled",
+      "typography/sfpro": "disabled",
+      "typography/roboto": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:376:12438",
     "$figmaModeId": "376:12",
@@ -73,7 +91,16 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "corePalette": "source",
-      "accent/ flower": "enabled"
+      "accent/cosmo": "disabled",
+      "accent/fly": "disabled",
+      "accent/flower": "enabled",
+      "accent/sea": "disabled",
+      "body/neutral": "disabled",
+      "body/accent": "disabled",
+      "theme/light": "disabled",
+      "theme/dark": "disabled",
+      "typography/sfpro": "disabled",
+      "typography/roboto": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:376:12438",
     "$figmaModeId": "376:13",
@@ -107,7 +134,16 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "corePalette": "source",
-      "accent/ sea": "enabled"
+      "accent/cosmo": "disabled",
+      "accent/fly": "disabled",
+      "accent/flower": "disabled",
+      "accent/sea": "enabled",
+      "body/neutral": "disabled",
+      "body/accent": "disabled",
+      "theme/light": "disabled",
+      "theme/dark": "disabled",
+      "typography/sfpro": "disabled",
+      "typography/roboto": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:376:12438",
     "$figmaModeId": "376:14",
@@ -140,8 +176,17 @@
     "name": "neutral",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "body/ neutral": "enabled",
-      "corePalette": "source"
+      "corePalette": "source",
+      "accent/cosmo": "disabled",
+      "accent/fly": "disabled",
+      "accent/flower": "disabled",
+      "accent/sea": "disabled",
+      "body/neutral": "enabled",
+      "body/accent": "disabled",
+      "theme/light": "disabled",
+      "theme/dark": "disabled",
+      "typography/sfpro": "disabled",
+      "typography/roboto": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:376:12459",
     "$figmaModeId": "376:15",
@@ -169,9 +214,17 @@
     "name": "accent",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "body/ accent": "enabled",
       "corePalette": "source",
-      "accent/ cosmo": "source"
+      "accent/cosmo": "source",
+      "accent/fly": "disabled",
+      "accent/flower": "disabled",
+      "accent/sea": "disabled",
+      "body/neutral": "disabled",
+      "body/accent": "enabled",
+      "theme/light": "disabled",
+      "theme/dark": "disabled",
+      "typography/sfpro": "disabled",
+      "typography/roboto": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:376:12459",
     "$figmaModeId": "376:16",
@@ -199,11 +252,18 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "body/ neutral": "source",
       "corePalette": "source",
-      "accent/ cosmo": "source",
       "coreLoyaut": "source",
-      "theme/ light": "enabled"
+      "accent/cosmo": "source",
+      "accent/fly": "disabled",
+      "accent/flower": "disabled",
+      "accent/sea": "disabled",
+      "body/neutral": "source",
+      "body/accent": "disabled",
+      "theme/light": "enabled",
+      "theme/dark": "disabled",
+      "typography/sfpro": "disabled",
+      "typography/roboto": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:376:12475",
     "$figmaModeId": "376:17",
@@ -536,11 +596,18 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "body/ neutral": "source",
       "corePalette": "source",
-      "accent/ cosmo": "source",
       "coreLoyaut": "source",
-      "theme/ dark": "enabled"
+      "accent/cosmo": "source",
+      "accent/fly": "disabled",
+      "accent/flower": "disabled",
+      "accent/sea": "disabled",
+      "body/neutral": "source",
+      "body/accent": "disabled",
+      "theme/light": "disabled",
+      "theme/dark": "enabled",
+      "typography/sfpro": "disabled",
+      "typography/roboto": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:376:12475",
     "$figmaModeId": "376:18",
@@ -872,7 +939,16 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "coreTypography": "source",
-      "typography/ sfpro": "enabled"
+      "accent/cosmo": "disabled",
+      "accent/fly": "disabled",
+      "accent/flower": "disabled",
+      "accent/sea": "disabled",
+      "body/neutral": "disabled",
+      "body/accent": "disabled",
+      "theme/light": "disabled",
+      "theme/dark": "disabled",
+      "typography/sfpro": "enabled",
+      "typography/roboto": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:376:12796",
     "$figmaModeId": "376:20",
@@ -885,7 +961,16 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "coreTypography": "source",
-      "typography/ roboto": "enabled"
+      "accent/cosmo": "disabled",
+      "accent/fly": "disabled",
+      "accent/flower": "disabled",
+      "accent/sea": "disabled",
+      "body/neutral": "disabled",
+      "body/accent": "disabled",
+      "theme/light": "disabled",
+      "theme/dark": "disabled",
+      "typography/sfpro": "disabled",
+      "typography/roboto": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:376:12796",
     "$figmaModeId": "376:21",
