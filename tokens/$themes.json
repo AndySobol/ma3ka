@@ -867,21 +867,6 @@
     "group": "theme"
   },
   {
-    "id": "a568b301a4464890081bd8e1aa8086c7dd78a230",
-    "name": "wireframe",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "body/ neutral": "source",
-      "corePalette": "source",
-      "coreLoyaut": "source",
-      "theme/ wireframe": "enabled"
-    },
-    "$figmaCollectionId": "VariableCollectionId:376:12475",
-    "$figmaModeId": "376:19",
-    "$figmaVariableReferences": {},
-    "group": "theme"
-  },
-  {
     "id": "c923c722f9795de0d3148f1e291c5e31ec6f00cf",
     "name": "sfpro",
     "$figmaStyleReferences": {},
