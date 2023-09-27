@@ -1,0 +1,170 @@
+{
+  "native": {
+    "ios": {
+      "action": {
+        "primary": {
+          "value": "#2E7CF6",
+          "type": "color"
+        },
+        "success": {
+          "value": "#34C759",
+          "type": "color"
+        },
+        "caution": {
+          "value": "#FFCC00",
+          "type": "color"
+        },
+        "critical": {
+          "value": "#FF3B30",
+          "type": "color"
+        }
+      },
+      "static": {
+        "faceID": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "homeBar": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "keyboard": {
+        "bg": {
+          "value": "#CED0D4",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.75",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "select": {
+          "value": "#EBEDF0",
+          "type": "color"
+        },
+        "keyHigh": {
+          "value": "#FCFCFE",
+          "type": "color"
+        },
+        "key": {
+          "value": "#FCFCFE",
+          "type": "color"
+        },
+        "keyLow": {
+          "value": "#ABB0BA",
+          "type": "color"
+        },
+        "onKey": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "onKeyHigh": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "icon": {
+          "value": "#3C3C43",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.75",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "divider": {
+          "value": "#000000",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "stroke": {
+          "value": "#000000",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.3",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      },
+      "safari": {
+        "bg": {
+          "value": "#F7F7F7",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.75",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "input": {
+          "value": "#787880",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.16",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "onInput": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "onInputLow": {
+          "value": "#3C3C43",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.3",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "onInputXLow": {
+          "value": "#3C3C43",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.6",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

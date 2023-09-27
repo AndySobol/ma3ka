@@ -1,0 +1,188 @@
+{
+  "native": {
+    "ios": {
+      "action": {
+        "primary": {
+          "value": "#5794F7",
+          "type": "color"
+        },
+        "success": {
+          "value": "#30D158",
+          "type": "color"
+        },
+        "caution": {
+          "value": "#FFD60A",
+          "type": "color"
+        },
+        "critical": {
+          "value": "#FF453A",
+          "type": "color"
+        }
+      },
+      "static": {
+        "faceID": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "homeBar": {
+          "value": "#FFFFFF",
+          "type": "color"
+        }
+      },
+      "keyboard": {
+        "bg": {
+          "value": "#383838",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.75",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "select": {
+          "value": "#767680",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.24",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "keyHigh": {
+          "value": "#C4C4C4",
+          "type": "color"
+        },
+        "key": {
+          "value": "#FFFFFF",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.3",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "keyLow": {
+          "value": "#FFFFFF",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.12",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "onKey": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "onKeyHigh": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "icon": {
+          "value": "#E7E7E7",
+          "type": "color"
+        },
+        "divider": {
+          "value": "#FFFFFF",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "stroke": {
+          "value": "#FFFFFF",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.15",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      },
+      "safari": {
+        "bg": {
+          "value": "#000000",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.75",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "input": {
+          "value": "#767680",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.24",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "onInput": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "onInputLow": {
+          "value": "#EBEBF5",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.3",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "onInputXLow": {
+          "value": "#EBEBF5",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.6",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

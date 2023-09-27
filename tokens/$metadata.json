@@ -1,17 +1,10 @@
 {
   "tokenSetOrder": [
-    "corePalette",
-    "coreLoyaut",
-    "coreTypography",
-    "accent/cosmo",
-    "accent/fly",
-    "accent/flower",
-    "accent/sea",
-    "body/neutral",
-    "body/accent",
+    "core",
+    "layout",
     "theme/light",
     "theme/dark",
-    "typography/sfpro",
-    "typography/roboto"
+    "_native/light",
+    "_native/dark"
   ]
 }
