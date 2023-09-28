@@ -270,7 +270,7 @@
           "value": "{color.neutral.40}",
           "type": "color"
         },
-        "high": {
+        "opacity": {
           "value": "{color.neutral.190}",
           "type": "color",
           "$extensions": {
@@ -471,7 +471,7 @@
           "value": "{color.neutral.80}",
           "type": "color"
         },
-        "medium": {
+        "opacity": {
           "value": "{color.neutral.190}",
           "type": "color",
           "$extensions": {
@@ -672,7 +672,7 @@
           "value": "{color.neutral.80}",
           "type": "color"
         },
-        "medium": {
+        "opacity": {
           "value": "{color.neutral.190}",
           "type": "color",
           "$extensions": {
