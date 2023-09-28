@@ -1,17 +1,10 @@
 {
   "tokenSetOrder": [
-    "_corePalette",
-    "_coreLoyaut",
-    "accent/ primary",
-    "accent/ secondary",
-    "accent/ tertiary",
-    "accent/ fourfold",
-    "body/ neutral",
-    "body/ accent",
-    "theme / light",
-    "theme / dark",
-    "theme / wireframe",
-    "typography / sfpro",
-    "typography / roboto"
+    "core",
+    "layout",
+    "themes/light",
+    "themes/dark",
+    "_native/light",
+    "_native/dark"
   ]
 }
