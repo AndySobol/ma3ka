@@ -2,8 +2,8 @@
   "tokenSetOrder": [
     "core",
     "layout",
-    "theme/light",
-    "theme/dark",
+    "themes/light",
+    "themes/dark",
     "_native/light",
     "_native/dark"
   ]
