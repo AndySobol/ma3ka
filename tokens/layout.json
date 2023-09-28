@@ -1045,11 +1045,11 @@
       }
     }
   },
-  "colors": {
+  "color": {
     "alpha": {
       "black": {
         "002": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1062,7 +1062,7 @@
           }
         },
         "008": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1075,7 +1075,7 @@
           }
         },
         "012": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1088,7 +1088,7 @@
           }
         },
         "016": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1101,7 +1101,7 @@
           }
         },
         "020": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1114,7 +1114,7 @@
           }
         },
         "024": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1127,7 +1127,7 @@
           }
         },
         "032": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1140,7 +1140,7 @@
           }
         },
         "040": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1153,7 +1153,7 @@
           }
         },
         "056": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1166,7 +1166,7 @@
           }
         },
         "064": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1179,7 +1179,7 @@
           }
         },
         "076": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1192,7 +1192,7 @@
           }
         },
         "086": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1205,7 +1205,7 @@
           }
         },
         "094": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1218,7 +1218,7 @@
           }
         },
         "098": {
-          "value": "{colors.black}",
+          "value": "{color.black}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1233,7 +1233,7 @@
       },
       "white": {
         "002": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1246,7 +1246,7 @@
           }
         },
         "008": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1259,7 +1259,7 @@
           }
         },
         "012": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1272,7 +1272,7 @@
           }
         },
         "016": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1285,7 +1285,7 @@
           }
         },
         "020": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1298,7 +1298,7 @@
           }
         },
         "024": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1311,7 +1311,7 @@
           }
         },
         "032": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1324,7 +1324,7 @@
           }
         },
         "040": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1337,7 +1337,7 @@
           }
         },
         "056": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1350,7 +1350,7 @@
           }
         },
         "064": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1363,7 +1363,7 @@
           }
         },
         "076": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1376,7 +1376,7 @@
           }
         },
         "086": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1389,7 +1389,7 @@
           }
         },
         "094": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1402,7 +1402,7 @@
           }
         },
         "098": {
-          "value": "{colors.white}",
+          "value": "{color.white}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
