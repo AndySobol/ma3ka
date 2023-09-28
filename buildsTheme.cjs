@@ -33,7 +33,7 @@ async function run() {
 				transformGroup: 'flutter',
 				files: [
 					{
-						destination: `vars-${name}.dart`,
+						destination: `${name}.dart`,
 						format: 'flutter/class.dart',
 					},
 				],
