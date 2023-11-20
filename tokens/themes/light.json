@@ -497,7 +497,7 @@
           }
         }
       },
-      "critical": {
+      "error": {
         "default": {
           "value": "{color.red.500}",
           "type": "color"
@@ -895,7 +895,7 @@
               "y": "{axis.0}",
               "blur": "{blur.0}",
               "spread": "{spread.1}",
-              "color": "{color.button.primary.alpha-16}",
+              "color": "{color.button.primary.ghost.050}",
               "type": "dropShadow"
             },
             "type": "boxShadow"
@@ -906,7 +906,7 @@
               "y": "{axis.0}",
               "blur": "{blur.0}",
               "spread": "{spread.2}",
-              "color": "{color.button.secondary.alpha-16}",
+              "color": "{color.button.primary.ghost.060}",
               "type": "dropShadow"
             },
             "type": "boxShadow"
@@ -930,7 +930,7 @@
               "y": "{axis.0}",
               "blur": "{blur.0}",
               "spread": "{spread.1}",
-              "color": "{color.button.secondary.alpha-16}",
+              "color": "{color.button.secondary.ghost.050}",
               "type": "dropShadow"
             },
             "type": "boxShadow"
@@ -941,7 +941,7 @@
               "y": "{axis.0}",
               "blur": "{blur.0}",
               "spread": "{spread.2}",
-              "color": "{color.button.secondary.alpha-16}",
+              "color": "{color.button.secondary.ghost.060}",
               "type": "dropShadow"
             },
             "type": "boxShadow"
@@ -958,14 +958,14 @@
             "type": "boxShadow"
           }
         },
-        "critical": {
+        "error": {
           "hover": {
             "value": {
               "x": "{axis.0}",
               "y": "{axis.0}",
               "blur": "{blur.0}",
               "spread": "{spread.1}",
-              "color": "{color.button.critical.alpha-16}",
+              "color": "{color.button.error.ghost.050}",
               "type": "dropShadow"
             },
             "type": "boxShadow"
@@ -976,7 +976,7 @@
               "y": "{axis.0}",
               "blur": "{blur.0}",
               "spread": "{spread.2}",
-              "color": "{color.button.critical.alpha-16}",
+              "color": "{color.button.error.ghost.060}",
               "type": "dropShadow"
             },
             "type": "boxShadow"
